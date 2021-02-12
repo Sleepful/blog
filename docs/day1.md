@@ -41,14 +41,22 @@ j(y) q(ch) x(s)
 # otra fam, para otro dia
 
 zh ch sh r
+boca redondo | sin aire
+boca abierto | suelta aire
+abierto mas | aire doble
+r como de callo
+
+- todos con lengua arriba
 
 # otra fam
 
 z c s
+como los anteriores ppero con lengua abajo
 
 # otra cosa
 
-y w
+y(i) w(u)
+para completar la forma consonante+vocal
 
 ---
 
@@ -98,3 +106,65 @@ ma1 ; mama
 ma3 ; caballo
 ta1ng: sopa
 ta2ng: dulce/azucar
+
+---
+
+# caracteres
+
+tradicional y simplificados
+
+vocab
+
+caracteres
+han\ zi\
+
+xiang\ xing/ zi\
+
+cang- jie/
+
+casa jia-
+luna yue\
+rey wang/
+persona ren/
+fuego huo^
+montana shan-
+caballo ma^
+sol yi\
+boca ko^u
+puerta men
+
+## preguntas
+
+we\n t/i preguntas
+wo3 yo
+you3 tener
+yi2ge4 uno
+
+- regla:
+
+* dos en tercer tono
+* el primero se reemplaza por el 2 tono
+
+ni3 tu
+ta1 él
+ta1 ella
+nin2 usted
+
+plural:
+们 men
+
+## vocab
+
+ni usted
+hao bien
+nin usted
+nin hao hola
+...revisar presentacion
+
+ne - particula interrogativa
+
+lectura de 6 a 11, de presentacion
+
+frases?
+似曾相识
+现学现卖
