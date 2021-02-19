@@ -116,13 +116,14 @@ tradicional y simplificados
 vocab
 
 caracteres
-han\ zi\
+hànzì
 
-xiang\ xing/ zi\
+xiàng xíng zì
 
-cang- jie/
+cāngjíe
 
 casa jia-
+
 luna yue\
 rey wang/
 persona ren/
@@ -158,7 +159,7 @@ plural:
 ni usted
 hao bien
 nin usted
-nin hao hola
+nin hao hola // pero mas formal
 ...revisar presentacion
 
 ne - particula interrogativa
@@ -168,3 +169,57 @@ lectura de 6 a 11, de presentacion
 frases?
 似曾相识
 现学现卖
+
+### de la presentacion
+
+hai ke yi - es masomenos
+hai bu cuo - aun no esta mal
+
+#### no esta en presentacion
+
+早上好 zao3 shang4 hao3 - buenoas dias hasta 8:59
+shang4 wu3 hao3 - buenos dias de 9:00 a 11:59
+xia4 wu3 hao3 - buenas tardes hasta 5:59
+wan3 shang4 hao3 - buenas noches
+wan3 an1 - buenas noches de despedida
+
+明天见 - ming2 tian1 jian4 - nos vemos manana
+下星期见 - xiang4xing1qi2jian4 - nos vemos la proxima semana
+下 - proximo
+星期 - semana
+
+sujeto + 呢 ne - devolver pregunta
+也 - ye - tambien
+
+## preguntas
+
+为什么 - wèi shén me - porque?
+很累 - hěn lèi - cansado
+很忙 - hěn máng - ocupado
+
+## vocab
+
+ba4 ba5 爸爸 papa
+ping2 guo3 苹果 manzana
+cao3 mei2 草莓 fresa
+ke3 le4 可乐 coca cola
+ka1 fei1 咖腓 cafe
+shui3 水 agua
+ye2 ye5 爷爷 abuelo paterno
+peng2 you3 朋友 amigo/a
+mian4 bao1 面包 pan
+bing3 gan1 饼干 galletas
+tang2 guo3 糖果 dulces/confites
+san1 ming2 zhi4 三明治 sanguich
+han4 bao3 bao1 汉堡包 hamburguesa
+shu1 cai4 蔬菜 vegetales
+bo1 luo2 菠萝 pin'a
+pu2 tao2 葡萄 uvas
+xiang1 jiao1 香蕉 banano
+ju2 zi 橘子 mandarina
+yi1 fu2 衣服 ropa
+shu1 书 libro
+
+ü -> ju qu xu
+
+西兰花 xi 1 lan 2 hua 1 brocoli
