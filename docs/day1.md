@@ -219,7 +219,75 @@ xiang1 jiao1 香蕉 banano
 ju2 zi 橘子 mandarina
 yi1 fu2 衣服 ropa
 shu1 书 libro
+xi1 gua1 西瓜 sandia
+rou4 肉 carne
+pi2 jiu3 啤酒 licor
+黑 豆 hei 1 dou 4 frijoles
 
 ü -> ju qu xu
 
 西兰花 xi 1 lan 2 hua 1 brocoli
+
+
+# semana 4 (semana 3 presentacion)
+## vocab
+
+xue2xi2 estudiar/aprender
+shang4 ge5 xing1 qi1 上个星期 semana pasada
+yuan3 lejos 远
+
+# 动词 dong4 ci2 (mover palabra) -> verbo
+
+-- de la presentacion
+
+xi huan - gustar
+chi     - comer
+yao     - querer
+he      - tomar/beber
+mai     - comprar
+
+好+verbo = describiendo algo que esta rico
+1. 好喜欢 encanta 
+2. 好吃 comida deliciosa
+3. -
+4. 好喝bebida que esta deliciosa
+5. 好买facil de comprar - dificil de conseguir
+
+不好+verbo = algo que no esta rico, esta dificil..
+1. -
+2. 不好吃 sabe horrible
+3. -
+4. 不好喝 bebida que...
+5. 不好买 dificil de comprar
+
+# S + V + O
+forma de formular frase en mandarin
+sujeto + verbo + objeto
+
+# S + V + O + PI
+
+shen2me 什么 como? o que?
+
+ni yao shen me
+ni yao chi shen me
+
+xi1ban1ya2 yu3 shu1
+espana idioma libro
+
+ying1yu3
+
+# suj + verbo + objeto
+# suj + neg + verbo + objeto
+
+PI + dong xi + verbo
+
+### Tarea
+
+Frases con todas las palabras
+
+生日  sheng 1 ri 4 cumple an'os
+快乐  kuai 4 le 4 feliz
+祝你  zhu 4  ni 3 te deseo
+祝你生日快乐
+
+de - particula de pertenencia/relacion
