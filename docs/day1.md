@@ -166,6 +166,7 @@ ne - particula interrogativa
 
 lectura de 6 a 11, de presentacion
 
+> TODO: add to anki
 frases?
 似曾相识
 现学现卖
@@ -188,6 +189,7 @@ wan3 an1 - buenas noches de despedida
 下 - proximo
 星期 - semana
 
+> TODO: add to anki
 sujeto + 呢 ne - devolver pregunta
 也 - ye - tambien
 
@@ -236,16 +238,17 @@ xue2xi2 estudiar/aprender
 shang4 ge5 xing1 qi1 上个星期 semana pasada
 yuan3 lejos 远
 
-# 动词 dong4 ci2 (mover palabra) -> verbo
+# 动词 dong4 xi (mover palabra) -> verbo
 
 -- de la presentacion
 
-xi huan - gustar
-chi     - comer
-yao     - querer
-he      - tomar/beber
-mai     - comprar
+xi3 huan1 - gustar
+chi1      - comer
+yao4      - querer
+he2       - tomar/beber
+mai3      - comprar
 
+> cuales no son validos? TODO: Anki?
 好+verbo = describiendo algo que esta rico
 1. 好喜欢 encanta 
 2. 好吃 comida deliciosa
@@ -260,6 +263,7 @@ mai     - comprar
 4. 不好喝 bebida que...
 5. 不好买 dificil de comprar
 
+> TODO: Anki frases (crear las frases es practica tambien)
 # S + V + O
 forma de formular frase en mandarin
 sujeto + verbo + objeto
@@ -291,3 +295,6 @@ Frases con todas las palabras
 祝你生日快乐
 
 de - particula de pertenencia/relacion
+
+## tati
+shi4 - ser particula
