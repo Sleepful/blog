@@ -1,112 +1,144 @@
+bàba    ; baba              ; 爸爸
+pà      ; miedo             ; 怕
+māma    ; mama              ; 妈妈
+fēijī   ; avion             ; 飞机
+dìdi    ; hermano menor     ; 弟弟
+tàiyáng ; sol               ; 太阳
+nǎinai  ; abuela paterna    ; 奶奶
+là      ; picante           ; 辣
+gēge    ; hermano mayor     ; 哥哥
+kè      ; clase             ; 课
+hé      ; y                 ; 和
+jī      ; gallo             ; 鸡
+qù      ; ir                ; 去
+xīnde   ; nuevo             ; 新的
 
-bàba    ; baba          ; 爸爸
-pà      ; miedo         ; 怕
-māma    ; mama          ; 妈妈
-fēijī   ; avion         ; 飞机
-dìdi    ; Hermanomenor  ; 弟弟
-tàiyáng ; sol           ; 太阳
-nǎinai  ; Abuelapaterna ; 奶奶
-là      ; picante       ; 辣
-gēge    ; Hermanomayor  ; 哥哥
-kè      ; Clase         ; 课
-hé      ; y             ; 和
-jī      ; gallo         ; 鸡
-qù      ; ir            ; 去
-xīnde   ; nuevo         ; 新的
+mā      ; mamá              ;
+mǎ      ; caballo           ;
+tāng    ; sopa              ;
+táng    ; dulce/azucar      ;
+
+jiā     ; casa              ;
+yuè     ; luna              ;
+wáng    ; rey               ;
+rén     ; persona           ;
+huǒ     ; fuego             ;
+shān    ; montaña           ;
+mǎ      ; caballo           ;
+yì      ; sol               ;
+mén     ; puerta            ;
+
+kǒu     ; boca              ;
+
+cāngjíe ; creador del hanzi ;
+hànzì   ; caracteres        ;
+
+xiàngxīng zì ; pictograma ; 象形字
 
 
-ma1 ; mama
-ma3 ; caballo
-ta1ng; sopa
-ta2ng; dulce/azucar
+wèn tí ; preguntas ;
+wǒ     ; yo        ;
+yǒu    ; tener     ;
+yígè   ; uno       ;
 
-cāngjíe
-hànzì ; caracteres
-xiang xing zi ;
+nǐ            ; tu                      ; 你
+tā            ; él                      ; 他
+tā            ; ella                    ; 她
+nín           ;  usted                  ; 您
 
-casa jia-
+men           ; plural                  ; 们
 
-luna yue\
-rey wang/
-persona ren/
-fuego huo^
-montana shan-
-caballo ma^
-sol yi\
-boca ko^u
-puerta men
+hǎo           ; bien                    ; 好
+nín hǎo       ; hola (formal)           ; 您好
 
-we\n t/i preguntas
-wo3 yo
-you3 tener
-yi2ge4 uno
+ne            ; particula interrogativa ; 呢
+nǐ ne         ; y usted?                ; 你呢
 
-ni3 tu
-ta1 él
-ta1 ella
-nin2 usted
+zài           ; otra vez                ; 再
 
-plural:
-们 men
+xià           ; proximo                 ; 下
+xīngqī        ; semana                  ; 星期
 
-ni usted
-hao bien
-nin usted
-nin hao hola // pero mas formal
+为什么        ; porque?                ; 为什么
+很累          ; cansado                ; 很累
+很忙          ; ocupado                ; 很忙
 
-ne - particula interrogativa
+cǎoméi        ; fresa                  ; 草莓
+kělè          ; coca cola              ; 可乐
+kāfēi         ; cafe                   ; 咖腓
+shuǐ          ; agua                   ; 水
+yéye          ; abuelo paterno         ; 爷爷
+péngyǒu       ; amigo/a                ; 朋友
+mǎngbāo       ; pan                    ; 面包
+bǐnggān       ; galletas               ; 饼干
+tángguǒ       ; dulces/confites        ; 糖果
+sānmíngzhì    ; sanguich               ; 三明治
+hànbǎobāo     ; hamburguesa            ; 汉堡包
+shūcài        ; vegetales              ; 蔬菜
+bōluó         ; piña                   ; 菠萝
+pútáo         ; uvas                   ; 葡萄
+xiāngjiāo     ; banano                 ; 香蕉
+júzi          ; mandarina              ; 橘子
+yīfú          ; ropa                   ; 衣服
+shū           ; libro                  ; 书
+xīguā         ; sandia                 ; 西瓜
+ròu           ; carne                  ; 肉
+píjiǔ         ; licor                  ; 啤酒
+hēidòu        ; frijoles               ; 黑豆
 
-下 - proximo
-星期 - semana
+xīlánhuā      ; brocoli                ;  西兰花
 
-为什么 - wèi shén me - porque? ---- oracion o vocabulario?
-很累 - hěn lèi - cansado
-很忙 - hěn máng - ocupado
-fresa
-ke3 le4 可乐 coca cola
-ka1 fei1 咖腓 cafe
-shui3 水 agua
-ye2 ye5 爷爷 abuelo paterno
-peng2 you3 朋友 amigo/a
-mian4 bao1 面包 pan
-bing3 gan1 饼干 galletas
-tang2 guo3 糖果 dulces/confites
-san1 ming2 zhi4 三明治 sanguich
-han4 bao3 bao1 汉堡包 hamburguesa
-shu1 cai4 蔬菜 vegetales
-bo1 luo2 菠萝 pin'a
-pu2 tao2 葡萄 uvas
-xiang1 jiao1 香蕉 banano
-ju2 zi 橘子 mandarina
-yi1 fu2 衣服 ropa
-shu1 书 libro
-xi1 gua1 西瓜 sandia
-rou4 肉 carne
-pi2 jiu3 啤酒 licor
-黑 豆 hei 1 dou 4 frijoles
+xuéxí         ; estudiar/aprender       ;
+shǎnggexīngqī ;  semana pasada          ; 上个星期
+yuǎn          ; lejos                   ; 远
 
-西兰花 xi 1 lan 2 hua 1 brocoli
+xǐhuān        ; gustar                  ;
+chī           ; comer                   ;
+yào           ; querer                  ;
+hé            ; tomar/beber             ;
+mǎi           ; comprar                 ;
 
-xue2xi2 estudiar/aprender
-shang4 ge5 xing1 qi1 上个星期 semana pasada
-yuan3 lejos 远
+háikěyǐ         ; masomenos                   ;
+háibùcuò        ; aun no esta mal             ;
 
-xi3 huan1 - gustar
-chi1      - comer
-yao4      - querer
-he2       - tomar/beber
-mai3      - comprar
+zǎoshànghǎo     ; buenoas dias hasta 8:59     ; 早上好
+shàngwǔhǎo      ; buenos dias de 9:00 a 11:59 ;
+xiàwǔhǎo        ; buenas tardes hasta 5:59    ;
+wǎnshànghǎo     ; buenas noches               ;
+wǎnān           ; buenas noches de despedida  ;
 
------- oraciones
+míngtiānjiàn    ; nos vemos manana            ; 明天见
+xiàngxīngqíjiàn ; nos vemos la proxima semana ; 下星期见
 
-hai ke yi - es masomenos
-hai bu cuo - aun no esta mal
+bù  ; negación ; 不
 
-早上好 zao3 shang4 hao3 - buenoas dias hasta 8:59
-shang4 wu3 hao3 - buenos dias de 9:00 a 11:59
-xia4 wu3 hao3 - buenas tardes hasta 5:59
-wan3 shang4 hao3 - buenas noches
-wan3 an1 - buenas noches de despedida
+shì ; ser      ; 是
 
-明天见 - ming2 tian1 jian4 - nos vemos manana
-下星期见 - xiang4xing1qi2jian4 - nos vemos la proxima semana
+############## TODO:
+
+生日  sheng 1 ri 4 cumple an'os
+快乐  kuai 4 le 4 feliz
+祝你  zhu 4  ni 3 te deseo
+祝你生日快乐
+
+
+-- frases
+
+ - forma de formular frase en mandarin
+sujeto + verbo + objeto / S + V + O
+S + V + O + PI
+# suj + neg + verbo + objeto
+
+PI + dong xi + verbo
+
+############## TODO preguntar:
+
+shen2me 什么 como? o que?
+xi1ban1ya2 yu3 shu1
+espana idioma libro
+
+dong xi
+
+de - particula de pertenencia/relacion
+
+----
