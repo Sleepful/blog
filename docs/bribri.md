@@ -55,3 +55,75 @@ Ekeke - be' ñiês       ; usted tambien/igualmente
 
 we'ste be' niês        ; gracias igualmente
 miâ miâ                ; gracias
+
+# Tarea
+saludo
+Nombre 
+Donde vive
+Edad
+Despedida
+
+
+# Otra clase:
+
+Amí     mamá
+Yë      papá
+Èl      hermanoa
+Alá     hijao
+Kutá    primao
+Naû     tio
+Mila    tía
+Wökela  abuelo (materno
+Wíkela  abuela (materna
+
+Taye    chica 
+Alàkol  mujer
+Wem     hombre
+
+êt      1
+böt     2
+mañat   3
+tchél   4
+skêl    5
+têröl   6
+kûl     7
+pâköl   8
+sûlîtû  9
+dabop   10
+
+Once: diez más once
+Más     = Kî
+Boyök   = multiply by 2
+Mañayök = multiply by 3
+
+Kos(cuánto) be' kî (en/encima de) dawás (años) tso?
+
+Ye'kî dawás tsö ...?
+
+Ekeke - está bien (cuando dan orden)
+Ekeke - yo me voy
+
+# Otra clase
+
+Mât         rojo
+Siê         azul
+Tsikiriri   amarillo
+suru'ru'    blanco
+dalo'lo'    negro
+siêl siêl   celeste
+bölböl      café
+tsipátsipa  verde
+
+
+ditsí       ropa
+klöio       pantalón
+páio        camisa
+klöiorhî    ropa intima masculina
+ditsirkî    ropa intima femenina
+
+berebere    masomenos
+sulúe       mal
+elke elke   poco a poco
+krinâ       enfermo(a)
+shtrîínâ    cansado
+ulúnâ       enojado(a)
