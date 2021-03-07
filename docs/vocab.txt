@@ -1,144 +1,168 @@
-bàba    ; baba              ; 爸爸
-pà      ; miedo             ; 怕
-māma    ; mama              ; 妈妈
-fēijī   ; avion             ; 飞机
-dìdi    ; hermano menor     ; 弟弟
-tàiyáng ; sol               ; 太阳
-nǎinai  ; abuela paterna    ; 奶奶
-là      ; picante           ; 辣
-gēge    ; hermano mayor     ; 哥哥
-kè      ; clase             ; 课
-hé      ; y                 ; 和
-jī      ; gallo             ; 鸡
-qù      ; ir                ; 去
-xīnde   ; nuevo             ; 新的
+bàba    ; baba              ; 爸爸 ;
+pà      ; miedo             ; 怕;
+māma    ; mamá              ; 妈妈;
+fēijī   ; avion             ; 飞机;
+dìdi    ; hermano menor     ; 弟弟;
+tàiyáng ; sol               ; 太阳;
+nǎinai  ; abuela paterna    ; 奶奶;
+là      ; picante           ; 辣;
+gēge    ; hermano mayor     ; 哥哥;
+kè      ; clase             ; 课;
+hé      ; y                 ; 和;
+jī      ; gallo             ; 鸡;
+qù      ; ir                ; 去;
+xīnde   ; nuevo             ; 新的;
 
-mā      ; mamá              ;
-mǎ      ; caballo           ;
-tāng    ; sopa              ;
-táng    ; dulce/azucar      ;
+mā      ; mamá              ;妈;
+tāng    ; sopa              ;汤;
+táng    ; dulce/azucar      ;糖;
 
-jiā     ; casa              ;
-yuè     ; luna              ;
-wáng    ; rey               ;
-rén     ; persona           ;
-huǒ     ; fuego             ;
-shān    ; montaña           ;
-mǎ      ; caballo           ;
-yì      ; sol               ;
-mén     ; puerta            ;
+jiā     ; casa              ;家;
+yuè     ; luna              ;月;
+wáng    ; rey               ;王;
+rén     ; persona           ;人;
+huǒ     ; fuego             ;火;
+shān    ; montaña           ;山;
+mǎ      ; caballo           ;马;
+rì      ; sol               ;日;
+mén     ; puerta            ;门;
 
-kǒu     ; boca              ;
+kǒu     ; boca              ;口;
 
-cāngjíe ; creador del hanzi ;
-hànzì   ; caracteres        ;
+cāngjíe ; creador del hanzi ;仓颉;
+hànzì   ; caracter          ;汉字;
 
-xiàngxīng zì ; pictograma ; 象形字
-
-
-wèn tí ; preguntas ;
-wǒ     ; yo        ;
-yǒu    ; tener     ;
-yígè   ; uno       ;
-
-nǐ            ; tu                      ; 你
-tā            ; él                      ; 他
-tā            ; ella                    ; 她
-nín           ;  usted                  ; 您
-
-men           ; plural                  ; 们
-
-hǎo           ; bien                    ; 好
-nín hǎo       ; hola (formal)           ; 您好
-
-ne            ; particula interrogativa ; 呢
-nǐ ne         ; y usted?                ; 你呢
-
-zài           ; otra vez                ; 再
-
-xià           ; proximo                 ; 下
-xīngqī        ; semana                  ; 星期
-
-为什么        ; porque?                ; 为什么
-很累          ; cansado                ; 很累
-很忙          ; ocupado                ; 很忙
-
-cǎoméi        ; fresa                  ; 草莓
-kělè          ; coca cola              ; 可乐
-kāfēi         ; cafe                   ; 咖腓
-shuǐ          ; agua                   ; 水
-yéye          ; abuelo paterno         ; 爷爷
-péngyǒu       ; amigo/a                ; 朋友
-mǎngbāo       ; pan                    ; 面包
-bǐnggān       ; galletas               ; 饼干
-tángguǒ       ; dulces/confites        ; 糖果
-sānmíngzhì    ; sanguich               ; 三明治
-hànbǎobāo     ; hamburguesa            ; 汉堡包
-shūcài        ; vegetales              ; 蔬菜
-bōluó         ; piña                   ; 菠萝
-pútáo         ; uvas                   ; 葡萄
-xiāngjiāo     ; banano                 ; 香蕉
-júzi          ; mandarina              ; 橘子
-yīfú          ; ropa                   ; 衣服
-shū           ; libro                  ; 书
-xīguā         ; sandia                 ; 西瓜
-ròu           ; carne                  ; 肉
-píjiǔ         ; licor                  ; 啤酒
-hēidòu        ; frijoles               ; 黑豆
-
-xīlánhuā      ; brocoli                ;  西兰花
-
-xuéxí         ; estudiar/aprender       ;
-shǎnggexīngqī ;  semana pasada          ; 上个星期
-yuǎn          ; lejos                   ; 远
-
-xǐhuān        ; gustar                  ;
-chī           ; comer                   ;
-yào           ; querer                  ;
-hé            ; tomar/beber             ;
-mǎi           ; comprar                 ;
-
-háikěyǐ         ; masomenos                   ;
-háibùcuò        ; aun no esta mal             ;
-
-zǎoshànghǎo     ; buenoas dias hasta 8:59     ; 早上好
-shàngwǔhǎo      ; buenos dias de 9:00 a 11:59 ;
-xiàwǔhǎo        ; buenas tardes hasta 5:59    ;
-wǎnshànghǎo     ; buenas noches               ;
-wǎnān           ; buenas noches de despedida  ;
-
-míngtiānjiàn    ; nos vemos manana            ; 明天见
-xiàngxīngqíjiàn ; nos vemos la proxima semana ; 下星期见
-
-bù  ; negación ; 不
-
-shì ; ser      ; 是
-
-############## TODO:
-
-生日  sheng 1 ri 4 cumple an'os
-快乐  kuai 4 le 4 feliz
-祝你  zhu 4  ni 3 te deseo
-祝你生日快乐
+xiàngxīng zì ; pictograma ; 象形字;
 
 
--- frases
+wèn tí ; preguntas ; 问题 ;
+wǒ     ; yo        ; 我   ;
+yǒu    ; tener     ; 有   ; verbo
+yígè   ; uno       ; 一个 ;
 
- - forma de formular frase en mandarin
-sujeto + verbo + objeto / S + V + O
-S + V + O + PI
-# suj + neg + verbo + objeto
+nǐ            ; tu                      ; 你;
+tā 他         ; él                      ; 他;
+tā 她         ; ella                    ; 她;
+nín           ;  usted                  ; 您;
 
-PI + dong xi + verbo
+men           ; plural                  ; 们        ; particula
 
-############## TODO preguntar:
+hǎo           ; bien                    ; 好;
+nín hǎo       ; hola (formal)           ; 您好;
 
-shen2me 什么 como? o que?
-xi1ban1ya2 yu3 shu1
-espana idioma libro
+ne            ; p. devolver pregunta    ; 呢        ; particula
+nǐ ne         ; y usted?                ; 你呢      ; pregunta
 
-dong xi
+zài           ; otra vez                ; 再;
 
-de - particula de pertenencia/relacion
+xià           ; proximo                 ; 下;
+xīngqī        ; semana                  ; 星期;
 
-----
+wèi shén me   ; porque?                ; 为什么     ; pregunta
+hěn lèi       ; cansado                ; 很累       ; verbo
+hěn máng      ; ocupado                ; 很忙       ; verbo
+
+cǎoméi        ; fresa                  ; 草莓;
+kělè          ; coca cola              ; 可乐;
+kāfēi         ; cafe                   ; 咖腓;
+shuǐ          ; agua                   ; 水;
+yéye          ; abuelo paterno         ; 爷爷;
+péngyǒu       ; amigo/a                ; 朋友;
+mǎngbāo       ; pan                    ; 面包;
+bǐnggān       ; galletas               ; 饼干;
+tángguǒ       ; dulces/confites        ; 糖果;
+sānmíngzhì    ; sanguich               ; 三明治;
+hànbǎobāo     ; hamburguesa            ; 汉堡包;
+shūcài        ; vegetales              ; 蔬菜;
+bōluó         ; piña                   ; 菠萝;
+pútáo         ; uvas                   ; 葡萄;
+xiāngjiāo     ; banano                 ; 香蕉;
+júzi          ; mandarina              ; 橘子;
+yīfú          ; ropa                   ; 衣服;
+shū           ; libro                  ; 书;
+xīguā         ; sandia                 ; 西瓜;
+ròu           ; carne                  ; 肉;
+píjiǔ         ; licor                  ; 啤酒;
+hēidòu        ; frijoles               ; 黑豆;
+
+xīlánhuā      ; brocoli                ;  西兰花;
+
+xuéxí         ; estudiar/aprender       ;学习         ; verbo
+shǎnggexīngqī ;  semana pasada          ; 上个星期;
+yuǎn          ; lejos                   ; 远;
+
+xǐhuān        ; gustar                  ; 喜欢 ; verbo
+chī           ; comer                   ; 吃; verbo
+yào           ; querer                  ; 要; verbo
+hē            ; tomar/beber             ; 喝; verbo
+mǎi           ; comprar                 ; 买; verbo
+
+háikěyǐ         ; masomenos                   ; 还可以;
+háibùcuò        ; aun no esta mal             ; 还不错;
+
+zǎoshànghǎo     ; buenoas dias hasta 8:59     ; 早上好; frase
+shàngwǔhǎo      ; buenos dias de 9:00 a 11:59 ; 上午好; frase
+xiàwǔhǎo        ; buenas tardes hasta 5:59    ; 下午好; frase
+wǎnshànghǎo     ; buenas noches               ; 晚上好; frase
+wǎnān           ; buenas noches de despedida  ; 晚安  ; frase
+míngtiānjiàn    ; nos vemos manana            ; 明天见  ; frase
+xiàngxīngqíjiàn ; nos vemos la proxima semana ; 下星期见; frase
+
+bù  ; p. negación ; 不 ; particula
+
+shì ; ser      ; 是 ; verbo
+
+shēngrì ; cumple años  ; 生日 ;
+kuài lè ; feliz        ; 快乐 ;
+zhùnǐ   ; te deseo     ; 祝你 ;
+
+me            ;  p. convertir pregunta  ; 么         ; particula
+
+shénme        ; 什么                    ; como?/que? ;
+xībānyá yǔshū ; España idioma libro     ; 西班牙语书 ;
+
+dōngxi        ; cosa                    ; 东西       ;
+
+de            ; p. pertenencia/relacion ; 的         ; particula
+
+jīn tiān ; hoy ; 今天 ;
+
+gōngzuǒ ; trabajo ; 工作 ;
+hěnduō ; mucho ; 很多 ;
+yínyàng ; lo mismo ; 样 ;
+
+le ; p. de pasado ; 了 ; particula
+
+yī   ; 1  ;  一 ; numero
+èr   ; 2  ;  二 ; numero
+sān  ; 3  ;  三 ; numero
+sì   ; 4  ;  四 ; numero
+wǔ   ; 5  ;  五 ; numero
+liù  ; 6  ;  六 ; numero
+qī   ; 7  ;  七 ; numero
+bā   ; 8  ;  八 ; numero
+jiǔ  ; 9  ;  九 ; numero
+shí  ; 10 ;  十 ; numero
+
+bǎi  ; cien     ; 百 ; numero
+qiān ; mil      ; 千 ; numero
+wàn  ; diez mil ; 万 ; numero
+
+
+shùzì ; numero escrito ; 数字 ; numero
+
+pīnyīn  ; pronunciacion     ; 拼音 ;
+yìsi    ; significado       ; 意思 ;
+
+zhège shì shén me yì si? ; que significa eso? ; 这个是什么意思？ ; frase
+zhège ; eso ; 这个 ;
+
+gè ; unidad ; 个 ; numero
+
+liàn xí ; practica ; 练习 ;
+
+shí gè shí shì yī bǎi; diez unidades de diez son un cien; 十个十是一百 ; frase
+Nǐ yào zuò shénme cài?; Que platillo de comida quiere hacer? ; 你要做什么菜？ ; frase
+
+zuò ; hacer               ; 做 ; verbo
+cài ; platillo de comida  ;菜 ;

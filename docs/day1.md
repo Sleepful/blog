@@ -298,3 +298,74 @@ de - particula de pertenencia/relacion
 
 ## tati
 shi4 - ser particula
+
+
+# clase 5
+
+jin 1 tian 1
+hoy 今天
+
+gong1 zuo 4
+trabajo 工作
+
+hen 3 duo 1
+mucho 很多
+
+yi2yang4 lo mismo 一样
+
+le 了 particula utilizado para pasado
+
+
+数字的学习
+shùzì de xuéxí
+numero de estudiar/aprender
+
+1 yī  一
+2 èr 二
+3 sān 三
+4 sì 四
+5 wǔ 五
+6 liù 六
+7 qī 七
+8 bā 八
+9 jiǔ 九
+10 shí 十
+
+
+hànzì 汉字 caracter
+pīnyīn 拼音 pronunciacion
+yìsi 意思 significado
+
+eso - zhege
+zhège shì shén me yì si?
+que significa eso?
+这个是什么意思？
+
+百 bǎi cien
+千 qiān mil
+万 wàn diez mil
+
+
+个 gè - unidad
+
+
+十个十是一百
+diez unidades de diez es 1 cien
+
+ tonos en numeros
+ 
+1 + 1 = 4
+1 + 2 = 4
+1 + 3 = 4
+1 + 4 = 2
+
+3 + 3 = 2 + 3
+3 + 1 = 3 + 1
+3 + 2 = 3 + 2
+3 + 4 = 3 + 4
+
+liàn xí 练习
+
+你要做什么菜？
+zuo4 hacer
+cai4 plato de comida (vegetales)
