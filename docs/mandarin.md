@@ -189,7 +189,6 @@ wan3 an1 - buenas noches de despedida
 下 - proximo
 星期 - semana
 
-> TODO: add to anki
 sujeto + 呢 ne - devolver pregunta
 也 - ye - tambien
 
@@ -352,8 +351,11 @@ que significa eso?
 十个十是一百
 diez unidades de diez es 1 cien
 
- tonos en numeros
  
+> TODO: agregar a anki los tonos estos 
+
+ tonos en numeros
+
 1 + 1 = 4
 1 + 2 = 4
 1 + 3 = 4
@@ -364,8 +366,90 @@ diez unidades de diez es 1 cien
 3 + 2 = 3 + 2
 3 + 4 = 3 + 4
 
+> end TODO
+
 liàn xí 练习
 
 你要做什么菜？
 zuo4 hacer
 cai4 plato de comida (vegetales)
+
+## Tarea
+
+
+## Preguntas
+
+> esta frase
+还行 上课中
+Hái xíng shàngkè zhōng
+
+> las que yo tenia apuntadas:
+
+háikěyǐ  ; masomenos       ; 还可以 ;
+háibùcuò ; aun no esta mal ; 还不错 ;
+kè       ; clase           ; 课     ;
+
+> esta frase tambien
+今晚上课吗
+jinwangshangkema
+
+> dierencia entre:
+今晚 jīn wǎn
+晚 (solamente) wǎn
+
+> esta palabra significa 'ver'?
+见 ; jiàn 
+
+> como se dice :
+什么
+
+decir
+hablar
+saber
+conocimiento
+dificil
+facil
+
+cual?
+
+"cual es la palabra para ___?"
+
+# clase
+
+guozuo jugo   果汁 guo 3 zhi 1
+háiméi 还没 aun no
+
+tiempo antes de sujeto o desppues de sujeto,
+tiene que ir antes del verbo
+
+注意zhùyì atencion
+
+200   ; liǎng bǎi ;  两百
+2000  ; ..
+20000 ; ..
+
+Para los numeros de 100 siempre hay que agregar un cero, por medio de los numeros aunque en espanol se puede decir ciento uno o ciento cero uno
+
+centenas decenas unidad
+
+202:
+liang bai ling er
+
+cero líng 零
+
+111:
+un cien un diez y uno
+一百一十一
+
+212:
+两百一十二
+
+生词的学习
+shēngcí de xuéxí
+
+descargar: pleco
+
+## Tareas
+numeros (varias!)
+pleco
+tarea de hanzi

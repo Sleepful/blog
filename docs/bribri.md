@@ -127,3 +127,8 @@ elke elke   poco a poco
 krinâ       enfermo(a)
 shtrîínâ    cansado
 ulúnâ       enojado(a)
+
+# late to this one
+dor      je dor programador
+chir 
+beri

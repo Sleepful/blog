@@ -53,6 +53,9 @@ nín hǎo       ; hola (formal)           ; 您好;
 ne            ; p. devolver pregunta    ; 呢        ; particula
 nǐ ne         ; y usted?                ; 你呢      ; pregunta
 
+yě ; p. también ; 也 ; particula
+
+
 zài           ; otra vez                ; 再;
 
 xià           ; proximo                 ; 下;
@@ -103,7 +106,7 @@ háibùcuò        ; aun no esta mal             ; 还不错;
 zǎoshànghǎo     ; buenoas dias hasta 8:59     ; 早上好; frase
 shàngwǔhǎo      ; buenos dias de 9:00 a 11:59 ; 上午好; frase
 xiàwǔhǎo        ; buenas tardes hasta 5:59    ; 下午好; frase
-wǎnshànghǎo     ; buenas noches               ; 晚上好; frase
+wǎnshànghǎo     ; buenas noches, saludo               ; 晚上好; frase
 wǎnān           ; buenas noches de despedida  ; 晚安  ; frase
 míngtiānjiàn    ; nos vemos manana            ; 明天见  ; frase
 xiàngxīngqíjiàn ; nos vemos la proxima semana ; 下星期见; frase
