@@ -172,8 +172,8 @@ cài ; platillo de comida  ;菜 ;
 
 guǒzhī ; jugo   ; 果汁 ;
 
-háiméi ; aún no ; 还没
-zhùyì ; atencion ; 注意
+háiméi ; aún no ; 还没 ;
+zhùyì ; atencion ; 注意 ;
 
 liǎng ; dos en centenas y + ; 两 ; numero
 líng ; cero ;  零 ; numero
