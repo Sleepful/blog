@@ -18,7 +18,7 @@ tāng    ; sopa              ;汤;
 táng    ; dulce/azucar      ;糖;
 
 jiā     ; casa              ;家;
-yuè     ; luna              ;月;
+yuè     ; luna, mes         ;月; fecha
 wáng    ; rey               ;王;
 rén     ; persona           ;人;
 huǒ     ; fuego             ;火;
@@ -56,10 +56,10 @@ nǐ ne         ; y usted?                ; 你呢      ; pregunta
 yě ; p. también ; 也 ; particula
 
 
-zài           ; otra vez                ; 再;
+zài 再        ; otra vez                ; 再;
 
 xià           ; proximo                 ; 下;
-xīngqī        ; semana                  ; 星期;
+xīngqī        ; semana                  ; 星期; fecha
 
 wèi shén me   ; porque?                ; 为什么     ; pregunta
 hěn lèi       ; cansado                ; 很累       ; verbo
@@ -115,7 +115,7 @@ bù  ; p. negación ; 不 ; particula
 
 shì ; ser      ; 是 ; verbo
 
-shēngrì ; cumple años  ; 生日 ;
+shēngrì ; cumple años  ; 生日 ; fecha
 kuài lè ; feliz        ; 快乐 ;
 zhùnǐ   ; te deseo     ; 祝你 ;
 
@@ -180,9 +180,9 @@ líng ; cero ;  零 ; numero
 
 shēngcí ; nueva palabra ; 生词 ;
 
-zài   ; en/estar      ; 在   ; verbo
-nar   ; donde         ; 哪   ;
-shìyě ; paisaje/vista ; 视野 ;
+zài 在 ; en/estar      ; 在   ; verbo
+nar    ; donde         ; 哪   ;
+shìyě  ; paisaje/vista ; 视野 ;
 
 feichang ; super (super bien/super mal); 非常 ;
 
@@ -190,18 +190,15 @@ dì ; p. posicion [+ numero](primero, segundo...) ; 第 ;
 
 
 jīntiān  ; hoy             ; 今天  ; fecha
-shēngrì  ; cumpleaños      ; 生日  ; fecha
 míngtiān ; mañana          ; 明天  ; fecha
 zuótiān  ; ayer            ; 昨天  ; fecha
 nàtiān   ; aquel día       ; 那天  ; fecha
 nián     ; año             ; 年    ; fecha
-yuè      ; mes             ; 月    ; fecha
 hào/rì   ; día del mes     ; 号/日 ; fecha
 chūshēng ; nacer           ; 出生  ; fecha
-xīngqī   ; semana          ; 星期  ; fecha
 
-xīngqīrì ; domingo  ; 星期日 ; fecha
-xīngqīrì ; domingo  ; 星期天 ; fecha
+xīngqīrì   ; domingo  ; 星期日 ; fecha
+xīngqītiān ; domingo  ; 星期天 ; fecha
 yīxīngqī ; una semana ; 一星期 ; fecha
 xīngqīyī ; lunes      ; 星期一 ; fecha
 yīyuè ; enero  ; 一月 ; fecha
