@@ -207,3 +207,5 @@ yuèyī ; un mes ; 月一 ; fecha
 jǐ ;  cuando o cuanto ; 几 ;
 
 jīn tiān shì jǐ yuè jǐ hào xīngqī jǐ ; hoy + es + cuando + mes + cuando + dia del mes + semana + cuando ; 今天是几月几号星期几 ; frase fecha
+
+péngyǒu ; amigo ; 朋友 ;
