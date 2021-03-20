@@ -416,7 +416,7 @@ cual?
 
 # clase
 
-guozuo jugo   果汁 guo 3 zhi 1
+guǒzhī jugo   果汁 guo 3 zhi 1
 háiméi 还没 aun no
 
 tiempo antes de sujeto o desppues de sujeto,
@@ -433,9 +433,9 @@ Para los numeros de 100 siempre hay que agregar un cero, por medio de los numero
 centenas decenas unidad
 
 202:
-liang bai ling er
+liǎng bǎi líng èr
 
-cero líng 零
+cero ; líng ; 零
 
 111:
 un cien un diez y uno
@@ -453,3 +453,73 @@ descargar: pleco
 numeros (varias!)
 pleco
 tarea de hanzi
+
+# Clase
+
+在   ; en/estar ; zài
+哪   ; donde ; nar
+视野 ; shìyě ; paisaje/vista
+
+非常 ; feichang ; super (super bien/super mal)
+
+第五课
+dì wǔ kè
+
+dì ; 第 ; di + numero = primero, segundo, tercero etc
+
+jīn tiān bā hào
+
+nián
+2021
+
+## vocabulario
+今天  ; jīntiān  ; hoy
+生日  ; shēngrì  ; cumpleaños
+明天  ; míngtiān ; mañana
+昨天  ; zuótiān  ; ayer
+那天  ; nàtiān   ; aquel día
+年    ; nián     ; año
+月    ; yuè      ; mes
+号/日 ; hào/rì   ; día de la fecha
+出生  ; chūshēng ; nacer
+星期  ; xīngqī   ; semana
+
+
+
+## dias semana
+dia de la semana + numero
+星期
+
+domingo:
+xīngqīrì, xīngqítiān
+星期日 ， 星期天
+
+numero + xīngqī
+numero + semana
+una semana, dos semanas, etc.
+
+## meses
+numero + yuè 月
+= meses del año
+
+## dia de mes
+numero + 号 ; hào ; dia de mes
+
+## fecha
+año + mes + fecha + dia de la semana
+
+jeuves 18 de marzo del 2021
+
+er ling er yi nian (2021), san yue (marzo), shi ba hao (18), xingqi si (jueves)
+
+jǐ ; 几 ; cuando o cuanto
+
+
+preguntar fecha:
+jīn tiān shì jǐ yuè jǐ hào xīngqī jǐ
+
+hoy + es + cuando + mes + cuando + dia del mes + semana + cuando
+
+## Tarea
+escribir la fecha de todos los dias
+

@@ -29,8 +29,8 @@ is' ; hola
 is' be' shkena? ; como esta usted?, como amanecio usted?
 ye' shkênâ buàe ; yo estoy bien
 
-is' be' tsö?    ; = 
-ye tsö buàe     ; =
+is' be' tsö?    ; como esta usted?
+ye tsö buàe     ; yo estoy bien
 
 tsö             ; ser o estar
 
@@ -66,7 +66,7 @@ Despedida
 
 # Otra clase:
 
-Amí     mamá
+Amî     mamá
 Yë      papá
 Èl      hermanoa
 Alá     hijao
@@ -89,10 +89,10 @@ têröl   6
 kûl     7
 pâköl   8
 sûlîtû  9
-dabop   10
+daböp   10
 
 Once: diez más once
-Más     = Kî
+Kî      = Más
 Boyök   = multiply by 2
 Mañayök = multiply by 3
 
@@ -132,3 +132,61 @@ ulúnâ       enojado(a)
 dor      je dor programador
 chir 
 beri
+
+### QUIZ
+
+- is' be' shkênâ?
+> ye shkena buae?
+- is' be' tsö?
+> ye tsö buàe
+- imâ be' kie?
+> ye kie Jose Pablo
+- wê be' sêrkê?
+> ye' sêrkê Escazu
+- kôs be' kî dawâs tsö?
+> Ye' kî dawás tsö böyok têröl
+- íkî be' tsö kaneblök?
+í+kî
+í = que?
+kî= encima de
+> ye tsö kaneblök computadoras pa
+pa = con (?)
+- imâ be' wîkila ênâ be' amî kie?
+imâ = como
+be' = usted
+ena = y
+amî = mama
+kie = llamarse
+> ye' amî kie Ana ênâ ye' wîkila kie Beatriz
+shtaû ét ênâ daböp
+shtaû = cuente (numero)
+> [1..10]
+- mikâ be' mikê upäkök Talamanca?
+mikâ = cuando
+mikê = ir
+upäkök = pasear/visitar
+> ye' mikê si' iet
+si' = mes
+iet = otro
+
+iyi ichö español es
+iyi = cosas (esta en plural?)
+ichö = decir
+
+chichi: perro
+dakarö: gallina
+dalo'lo': negro
+siê: azul
+
+tûnûk: correr
+chkök: comer
+kanê: trabajo (verbo)
+kanêblök: trabajando
+köchi: chancho
+
+mât: rojo
+sûlî: venado
+woblaûk: aprender
+sikua: extranjero
+
+cha = paso, de dejar pasar

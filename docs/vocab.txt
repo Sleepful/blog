@@ -169,3 +169,44 @@ Nǐ yào zuò shénme cài?; Que platillo de comida quiere hacer? ; 你要做什
 
 zuò ; hacer               ; 做 ; verbo
 cài ; platillo de comida  ;菜 ;
+
+guǒzhī ; jugo   ; 果汁 ;
+
+háiméi ; aún no ; 还没
+zhùyì ; atencion ; 注意
+
+liǎng ; dos en centenas y + ; 两 ; numero
+líng ; cero ;  零 ; numero
+
+shēngcí ; nueva palabra ; 生词 ;
+
+zài   ; en/estar      ; 在   ; verbo
+nar   ; donde         ; 哪   ;
+shìyě ; paisaje/vista ; 视野 ;
+
+feichang ; super (super bien/super mal); 非常 ;
+
+dì ; p. posicion [+ numero](primero, segundo...) ; 第 ;
+
+
+jīntiān  ; hoy             ; 今天  ; fecha
+shēngrì  ; cumpleaños      ; 生日  ; fecha
+míngtiān ; mañana          ; 明天  ; fecha
+zuótiān  ; ayer            ; 昨天  ; fecha
+nàtiān   ; aquel día       ; 那天  ; fecha
+nián     ; año             ; 年    ; fecha
+yuè      ; mes             ; 月    ; fecha
+hào/rì   ; día del mes     ; 号/日 ; fecha
+chūshēng ; nacer           ; 出生  ; fecha
+xīngqī   ; semana          ; 星期  ; fecha
+
+xīngqīrì ; domingo  ; 星期日 ; fecha
+xīngqīrì ; domingo  ; 星期天 ; fecha
+yīxīngqī ; una semana ; 一星期 ; fecha
+xīngqīyī ; lunes      ; 星期一 ; fecha
+yīyuè ; enero  ; 一月 ; fecha
+yuèyī ; un mes ; 月一 ; fecha
+
+jǐ ;  cuando o cuanto ; 几 ;
+
+jīn tiān shì jǐ yuè jǐ hào xīngqī jǐ ; hoy + es + cuando + mes + cuando + dia del mes + semana + cuando ; 今天是几月几号星期几 ; frase fecha
