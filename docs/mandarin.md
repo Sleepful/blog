@@ -523,3 +523,8 @@ hoy + es + cuando + mes + cuando + dia del mes + semana + cuando
 ## Tarea
 escribir la fecha de todos los dias
 
+## out-of-class
+
+duō ; mucho ; 多
+tā ; pronombre cosa ; 它
+suīrán ; aunque/a pesar de ; 虽然

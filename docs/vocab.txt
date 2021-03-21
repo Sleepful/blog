@@ -101,7 +101,7 @@ hē            ; tomar/beber             ; 喝; verbo
 mǎi           ; comprar                 ; 买; verbo
 
 háikěyǐ         ; masomenos                   ; 还可以;
-háibùcuò        ; aun no esta mal             ; 还不错;
+háibùcuò        ; aún no esta mal             ; 还不错;
 
 zǎoshànghǎo     ; buenoas dias hasta 8:59     ; 早上好; frase
 shàngwǔhǎo      ; buenos dias de 9:00 a 11:59 ; 上午好; frase
@@ -208,3 +208,9 @@ jǐ ;  cuando o cuanto ; 几 ;
 
 jīn tiān shì jǐ yuè jǐ hào xīngqī jǐ ; hoy + es + cuando + mes + cuando + dia del mes + semana + cuando ; 今天是几月几号星期几 ; frase fecha
 
+shuō ; decir ; 说 ; verbo
+
+duō ; mucho ; 多 ;
+tā 它 ; pronombre cosa ; 它 ;
+suīrán ; aunque/a pesar de ; 虽然 ;
+xiǎng ; extrañar ; 想 ; verbo
