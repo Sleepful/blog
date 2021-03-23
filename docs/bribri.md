@@ -190,3 +190,57 @@ woblaûk: aprender
 sikua: extranjero
 
 cha = paso, de dejar pasar
+
+## Clase
+
+iyiwak = animales
+uru = domesticos
+kañiru = silvestres
+
+
+chichi = perro
+cöchi = cerdo
+daka'rö = gallina
+dúk = pato
+kiré = geko
+cabáiö = caballo *explicar: caballo
+P^ú = aguila
+mök = buho
+sul_í = venado
+Nâ_í = danta
+Pu's = gato *explicar: pussy
+namû = tigres y familiares
+
+is be'tsenâ'? = como te sientes?
+ye'tsenâ [...]
+is be' tserke? como te estas sintiendo?
+
+buàe = bien
+sulúe = mal
+bére bere = mas o menos
+tsérkê = sintiendo
+shkí = mareado
+krinâ = enfermo
+krirkê = enfermando
+
+ikueki = ¿por qué?
+
+ye twália ta = yo tengo gripe
+twália = gripe
+ta = tengo
+
+
+## les falta acentos
+yami = familia
+yamip = familiares
+
+Iriria = madre tierra
+
+guia del inframundo:
+chichila = (la: hijode)perro
+
+wëñe = macho
+láki = hembra
+
+bikënâ = pereza
+bikësi = perezoso
