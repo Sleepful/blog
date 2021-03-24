@@ -206,8 +206,8 @@ kiré = geko
 cabáiö = caballo *explicar: caballo
 P^ú = aguila
 mök = buho
-sul_í = venado
-Nâ_í = danta
+sulí̲ = venado
+Na̲í̲ = danta
 Pu's = gato *explicar: pussy
 namû = tigres y familiares
 
