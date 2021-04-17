@@ -528,3 +528,145 @@ escribir la fecha de todos los dias
 duō ; mucho ; 多
 tā ; pronombre cosa ; 它
 suīrán ; aunque/a pesar de ; 虽然
+méiguānxi ; no importa ; 没关系
+
+## clase
+吃饭 ; chī fàn ; comer
+洗澡 ; xǐzǎo ; baño
+作业 ；zuòyyè ; tareas
+
+> agregre fecha semana vocab
+    
+zhè ; este; 这
+> screenshot
+
+jīn nián
+ming nian
+míng nián
+qu nian
+qù nián
+
+后天 ; hòutiān ; pasado manana
+
+> poema (screenshot)
+星期一，猴子穿新衣，
+星期二，猴子肚子饿，
+星期三，猴子去爬山，
+星期四，猴子看电视（去考试）
+星期五，猴子去跳舞，
+星期六，猴子去斗六，
+星期日，猴子过生日。
+
+xīng qī yī, hóu zi chuān xīn yī,
+xīng qī èr, hóu zi dù zi è,
+xīng qī sān, hóu zi qù pá shān,
+xīng qī sì, hóu zi kàn diàn shì (qù kǎo shì),
+xīng qī wǔ, hóu zi qù tiào wǔ,
+xīng qī liù, hóu zi qù dǒu liù,
+xīng qī rì, hóu zi guò shēng rì.
+
+hou zi - mono
+chuan - vestir
+xin yi - ropa nueva
+du zi - estomago
+e - hambiento
+qu - ir
+pa shan - escalar la montana
+pa - arrastrar
+kan - ver
+dian shi - television
+koa shi - examen
+tiao wu - bailar
+tiao - saltar
+dou liu - nombre propio de lugar en taiwan (no traduccion)
+guo - verbo, pasar
+sheng ri - cumple ano
+
+## Tarea
+aprender poema
+
+### clase mil anos
+
+zǎi jiàn - nos vemos
+
+懂 - dǒng - entender
+
+几岁 ？ ji3 sui 4 ; que edad
+
+你几岁？
+我二十六岁。
+
+
+## tarea 
+> hacer frase con cada uno de esos verbos del poema
+
+xing qi yi, jose pablo hace algo
+xing qi er, jose pablo hace algo
+
+夜 ye 4 ; la noche pero ya muy tarde
+media noche   半夜 ban 4  ye 4
+
+睡觉 shui 4 jiao 4 dormir
+梦 meng 4 dream
+新 年 xin 1 nian 2 ; año nuevo
+
+# zhè shì shéi
+这是谁
+这 ; zhe ; este/esta
+谁 ; quien ; shei
+quien es este
+
+那 ; nà ; aquel ; aquella
+
+可是 ke3 shi 4  pero
+
+没 有 （mei2 you 3 ）no tener
+
+海绵宝宝 ; hai 3 mian 2 bao3 bao 5 ; bob esponja 
+
+美国 mei3  guo 2 ; estados unidos
+
+美国队长 mei3 guo 2 dui 4 Zhang 3 ; estados unidos capitan
+
+粉红猪 fen3 hong 2 zhu 1 ; cerdo rosado
+小猪佩奇 ; Xiao 3 zhu 1 pei 4 qi 2 ; pepa pig
+
+
+'... como se dice en mandarin'
+.........汉语怎么说？
+、、、、、、、、han 4 yu 3 zen 3 me 5 shuo 1
+
+超人 ; chāorén ; superman
+我的; mio ; wo 3 de 5
+
+蝙蝠侠 ; bian 3 fu 2 Xia 2
+bian 3 fu 2 ; murcielago
+Xia 2 ; heroe
+
+钢铁 侠 gang1 tie 3 Xia 2 ; ironman
+
+男孩 nan 2 hai 2 ; chico
+nu3 hai2 女孩 ; chica
+
+mei3 guo 2 ren ; estadounidenses
+中国人 zhong 1 guo 2 ren 2 ; chino/a
+
+意大利 yi4 da 4 li 4 ; italia
+
+你是哪国 人？ ; （ni 3 shi 4 na3 guo 2 ren 2）? ; de que pais eres?
+
+哪 ; nǎ ; donde/cual
+
+英国 ying 1 guo 2 ; inglaterra
+
+ri 4 ben 3 日本 ; japon 
+
+哥斯达黎加 ge 1 si 1 da 2 li 2 jia 1 ; costa rica
+
+会 hui4 ; particula futuro, poder
+
+你想去日本吗？ ni 3 xiang 3 qu4 .......? ; desea ir a ..?
+
+# tarea
+1. agregar vocabulario de cada imagen
+2. posibles preguntas con cada uno de ellos (repetir en voz)

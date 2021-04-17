@@ -37,7 +37,7 @@ xiàngxīng zì ; pictograma ; 象形字;
 
 wèn tí ; preguntas ; 问题 ;
 wǒ     ; yo        ; 我   ;
-yǒu    ; tener     ; 有   ; verbo
+yǒu    ; tener, haber  ; 有   ; verbo
 yígè   ; uno       ; 一个 ;
 
 nǐ            ; tu                      ; 你;
@@ -91,7 +91,7 @@ hēidòu        ; frijoles               ; 黑豆;
 xīlánhuā      ; brocoli                ;  西兰花;
 
 xuéxí         ; estudiar/aprender       ;学习         ; verbo
-shǎnggexīngqī ;  semana pasada          ; 上个星期;
+shǎnggexīngqī ;  semana pasada          ; 上个星期; fecha
 yuǎn          ; lejos                   ; 远;
 
 xǐhuān        ; gustar                  ; 喜欢 ; verbo
@@ -109,7 +109,8 @@ xiàwǔhǎo        ; buenas tardes hasta 5:59    ; 下午好; frase
 wǎnshànghǎo     ; buenas noches, saludo               ; 晚上好; frase
 wǎnān           ; buenas noches de despedida  ; 晚安  ; frase
 míngtiānjiàn    ; nos vemos manana            ; 明天见  ; frase
-xiàngxīngqíjiàn ; nos vemos la proxima semana ; 下星期见; frase
+xiàngxīngqíjiàn ; nos vemos la proxima semana ; 下星期见; frase fecha
+xiàngxīngqí ; proxima semana ; 下星期; frase fecha
 
 bù  ; p. negación ; 不 ; particula
 
@@ -204,7 +205,7 @@ xīngqīyī ; lunes      ; 星期一 ; fecha
 yīyuè ; enero  ; 一月 ; fecha
 yuèyī ; un mes ; 月一 ; fecha
 
-jǐ ;  cuando o cuanto ; 几 ;
+jǐ ;  cuando o cuanto ; 几 ; pregunta fecha
 
 jīn tiān shì jǐ yuè jǐ hào xīngqī jǐ ; hoy + es + cuando + mes + cuando + dia del mes + semana + cuando ; 今天是几月几号星期几 ; frase fecha
 
@@ -214,3 +215,4 @@ duō ; mucho ; 多 ;
 tā 它 ; pronombre cosa ; 它 ;
 suīrán ; aunque/a pesar de ; 虽然 ;
 xiǎng ; extrañar ; 想 ; verbo
+méiguānxi ; no importa ; 没关系 ; frase

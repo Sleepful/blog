@@ -181,7 +181,7 @@ siê: azul
 tûnûk: correr
 chkök: comer
 kanê: trabajo (verbo)
-kanêblök: trabajando
+kanêblök: trabajar/trabajando
 köchi: chancho
 
 mât: rojo
@@ -244,3 +244,219 @@ láki = hembra
 
 bikënâ = pereza
 bikësi = perezoso
+
+## Clase
+
+> partes del cuerpo
+
+wöki : cabeza
+yik : nariz
+wöbla : ojos
+jkö : boca
+kököña : oidos
+tsi̲ : espalda
+bitsi̲ : pecho
+ulá : mano
+klö : pie
+shu̲ : cintura
+ulàtska : dedos
+tsa̲ : cabello
+tsuwo : seno
+
+dlena : duele
+
+ye wöki dlena : me duele la cabeza
+
+buala : bonita/bonito
+
+### pertenencia
+### pronombre + parte del cuerpo(sujeto) + verbo + adjetivo
+> mi cabello es bonito
+ye tsa dor buala
+> mi gato es negro
+ye pus dor dalolo
+> yo soy bueno
+ye dor buae
+> yo estoy bien
+ye tso buae
+> mi perro es cafe
+ye chichi dor bolbol
+> mi perro esta cafe
+ye chichi tso bolbol
+
+> mi perro es negro y blanco
+ye chichi dor dalolo ena sururu
+
+### pronombre + verbo + sustantivo + adjetivo
+> usted es buena gente
+be dor pe' buae
+
+ta : con
+sa : donde
+a : a/para
+we a : dentro de
+mike : ir/voy
+
+> con mi mama
+ye ami ta
+> donde mi mama
+ye ami sa
+> a mi mama/para mi mama
+ye ami a
+
+yi : quien
+
+mike : voy/ir
+
+- ye mike san jose a
+- yi ta
+- Jose ta
+
+> yo estoy donde mi mama
+ye tso ye ami sa
+> yo estoy con Paula
+ye tso Paula ta
+
+> yo voy con todos ustedes
+ye mike a ulitane ta
+
+### pronombre + verbo + sustantivo + adjetivo + posposicion
+> usted esta con buena persona
+be tso pe buae ta
+
+* el `ta` va al final
+
+
+### clase perdidda :(
+> quedo grabada
+
+kukúne̲ ; pronto hace poco
+enu̲k ; descansar
+yëna̲ ; de verdad / es cierto
+kula' ; silla
+ujkö ; puerta
+i̲ski̲ ; abajo
+ki̲mu̲k ; ayudar
+tsi̲r ; pequeño
+bérie ; grande
+bitsí̲ ; largo
+blöblo ; dulce
+se̲se ; simple(frio)
+skuök ; lavar
+yawök (yowök) ; hacer
+urki̲ ; afuera / servicio(baño)
+we̲shkë ; adentro
+
+kuök ; bañarse
+
+### nueva clase
+ye' puede ser 'yo' o 'posesivo'
+
+* we̲ be' ka̲-uk
+* ye mike urki
+
+we̲ ; donde (en pregunta)
+ka̲ ; lugar
+ka̲-uk ; hueco
+
+shkäku̲ ; ir (pero solicitando/deseando)
+
+> we̲̲ / sa = donde ?
+
+äië ; abierto
+ujkö tsö ; puerta esta
+
+Ami ye' shkaku be ta
+> Mamá yo quiero ir usted con
+
+ie' pa mimi 
+mimi ; 'mike' en futuro
+
+Be mike ere be mike ekol e
+> usted va pero usted va solo/a
+erë ; pero
+ekol e ; solo/sola
+
+ye mike ekol e
+> yo ire solo/a
+
+ye mike banet
+banet ; otro-lado
+
+> yo estoy haciendo eso (yo estoy eso hacer)
+ye tso i yawok
+i ; eso
+
+chkö ; comida
+chkök ; comer
+
+# Clase que hice falta
+> youtube link, no se donde
+
+# Clase con notas en el cel
+
+....verbos pasado/presente/futuro/gerundio
+
+# Clase
+
+techito en las vocales: u, i. es el dieresis
+
+añita̲ - juntos
+ema̲ - sí
+tö - sí (cortante)
+sau̲k - ser
+we̲s - ¿como?
+we̲ - donde
+yi ta̲ - con quien
+yi 
+ta̲
+upakök - pasear
+tau̲k - pintar / comprar (pintar cuando se menciona un color)
+> ye mike tunuk = yo voy a correr
+tu̲nu̲k - correr
+ena - y
+ü - casa
+u̲ - olla
+shtau̲ - puente
+tchöke - pasar
+ka̲wö - tiempo / con permiso
+tsena̲ - sentir
+ulitane̲ - todos 
+yàmi - familiar
+yàmipa - familiares
+tsö - ser/estar
+dör - ser/estar
+kane̲ - trabajo
+kaneblök - trabajar
+mika̲ - cuando
+mik - cuando
+we̲ro - donde
+we̲ - donde
+ima̲ - como
+is - hola
+ewa - despues / hola (pero en el sur)
+ki̲ - sobre/más
+sulú - mal
+sulúe - mal
+
+- mik be' ratse̲r
+- cuando usted viene
+
+- ye' mike si' iet
+- yo ire mes otro 
+> yo ire el proximo mes
+- mika? (cuando?)
+
+- Ima̲ ichëke̲ bribri ie _
+- Como decir bribri en _
+> Como se dice en bribri _
+
+- Ima̲ ichëke̲ bribri ie puerta
+- Ichëke̲ ujkö
+
+ka̲se páio - abrigo
+ka̲se - camisa
+páio - frio
+
+### tarea
+3 oraciones con la palabra 'mik' y con la palabra 'we'
