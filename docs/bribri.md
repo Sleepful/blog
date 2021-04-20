@@ -511,13 +511,12 @@ e̲ wöbláu̲k bribri <wa> e̲na̲ sa' ka̲wö tchö <buae>
 ye' se̲rke̲ <Escazu> e̲na̲ ye' ka̲ne̲blöke <tasechka ki>
 kukúne̲ ye' mike̲ upakök Talamanca e̲na̲ ye ki̲ kia̲na̲ shkök
 kachiübli we̲ kekepa awá se̲rke̲.
-sü wöblarke̲ bribri wa taséchka ki̲ kie <Microsoft Teams>
+sa' wöblarke̲ bribri wa taséchka ki̲ kie <Microsoft Teams>
 > nosotros estudiamos bribri con tecnologia llamada MSTeams
 
 e̲: estoy
 wa: con
 iñe̲: hoy
 taséchka: tecnologia (metal, digital, gracias)
-sü: estamos
 wöblarke: aprendiendo (gerundio)
 
