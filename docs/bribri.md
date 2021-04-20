@@ -460,3 +460,64 @@ páio - frio
 
 ### tarea
 3 oraciones con la palabra 'mik' y con la palabra 'we'
+
+## Clase
+negacion:
+au: "no"
+que: "no" pero en oracion
+
+## Quiz
+
+> Is' a' shke̲na̲?
+ye shkena buae
+> Is' be' tsö?
+ye tso buae
+
+> ko̲s be' amí̲ ki̲ dawás tsö?
+ye ami ki dawas tso daböp ske̲yök e̲t
+
+> ima̲ be' wökela kie?
+ye wokela kie Ada
+
+> be' alá ta̲?
+ye ke ala ta
+
+
+> Números shtöka̲
+
+> daböp
+diez
+> kúl
+siete
+> mañat
+tres
+> daböp boyók ki̲ teröl
+ventiseis
+> daböp ske̲yök ki̲ su̲li̲tu̲
+cincuenta y nueve
+> daböp maña̲yok ki̲ maña̲t
+treinta y tres
+> ske̲l
+siete
+> ét
+uno
+> mañal
+tres (pero de contar personas)
+
+is', ye kie <Jose Pablo>, buáe ye' <tsena> iñe̲, ye' <tso>
+e̲ wöbláu̲k bribri <wa> e̲na̲ sa' ka̲wö tchö <buae>
+> e̲na̲ sa' ka̲wö tchö buae
+> pasamos un buen tiempo
+ye' se̲rke̲ <Escazu> e̲na̲ ye' ka̲ne̲blöke <tasechka ki>
+kukúne̲ ye' mike̲ upakök Talamanca e̲na̲ ye ki̲ kia̲na̲ shkök
+kachiübli we̲ kekepa awá se̲rke̲.
+sü wöblarke̲ bribri wa taséchka ki̲ kie <Microsoft Teams>
+> nosotros estudiamos bribri con tecnologia llamada MSTeams
+
+e̲: estoy
+wa: con
+iñe̲: hoy
+taséchka: tecnologia (metal, digital, gracias)
+sü: estamos
+wöblarke: aprendiendo (gerundio)
+
