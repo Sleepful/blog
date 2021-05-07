@@ -464,7 +464,7 @@ páio - frio
 ## Clase
 negacion:
 au: "no"
-que: "no" pero en oracion
+kë: "no" pero en oracion
 
 ## Quiz
 
@@ -520,3 +520,80 @@ iñe̲: hoy
 taséchka: tecnologia (metal, digital, gracias)
 wöblarke: aprendiendo (gerundio)
 
+## clase
+
+dialogo!
+
+se' ko̲pakö (nosotros charlamos)
+
+> repasar este dialogo, preguntar dudas al profe
+
+is' be' shke̲na̲?
+buáe buáe, mia̲ mia̲. Ima̲ se' kie?
+ye' kie ..., e̲na̲ be'?
+ye kie ..., We̲ be' se̲rke̲?
+ye' se̲rke̲ ....
+Ko̲s be' ki̲ dawás tsö?
+ye' ki̲ dawás tsö .... i̲ma̲ be' ami̲ kie?
+ye' amí̲ kie ..., e̲na̲ beicha?
+ye' amí̲ kie ....
+we̲ be' michö?
+ye' mike̲ tu̲nu̲k, e̲na̲ be'?
+ye' mike̲ kaneblök. ko̲s diwö tsö?
+> ko̲s diwo tso = dar la hora
+Diwö tsö daböp ki̲ ske̲l. Ye' a̲ pakö tö i̲ki̲ be' tsö kane̲blök?
+Ye' tsö kane̲blö klöm kuatchök.
+> klöm kuatchök = sembrando platano
+Buáe e' dör
+ekeke yami̲. Ye' mia̲tche
+ekeke, sibö be' wápie
+mia̲ mia̲, be' ñie̲s
+se' añi̲ sawe̲
+> nosotros juntos vemos (nos vemos)
+
+> palabra correcta:
+A'e̲r a̲ ia̲na̲
+e̲r = entendimiento superior / corazon / sentimiento
+ia̲na̲ = conpentrar
+> pero la pronuncian como:
+A' e̲na̲ ia̲na̲
+
+ye' e̲r ta̲ be' kue̲ki̲
+> yo corazon tener usted por
+
+1. (pregunta) A'e̲r a̲ ia̲na̲
+2. (respuesta) Ema̲ sa' e̲na̲ ia̲na̲
+
+1. (pregunta) Be'e̲r a̲ ia̲na̲
+2. (respuesta) Ema̲ ye' e̲na̲ ia̲na̲
+
+## Practica de conocimientos adquiridos
+
+1. Menciono en bribri la pregunta y respuesta de los saludos.
+Plural y singular.
+
+2. Me presento. Pregunta y respuesta del nombre y de la edad.
+
+3. Meciono el lugar donde vivo. Pregunta y respuesta.
+
+4. Cuento los numeros del uno al 30.
+
+5. Menciono los colores de mi ropa.
+
+6. Menciono el nombre de: mama, papa, abuelo y abuela, mi tio mayor y mi tia mayor.
+
+7. Menciono actividades que me gusta hacer.
+
+La palabra gustar: wöbetse
+
+Sibö be' dör se' yë
+Be' se̲rke̲ kaköltöa
+Sa' yami ki̲mu̲
+Sa' ulítane̲ kimu̲
+We̲s be' ki̲ kia̲na̲ es
+> traduccion
+Dios tu eres nuestro padre
+tu que vives en el cielo
+ayuda a nuestra familia
+ayudanos a todos
+asi como usted quiera

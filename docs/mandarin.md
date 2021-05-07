@@ -179,9 +179,10 @@ hai bu cuo - aun no esta mal
 #### no esta en presentacion
 
 早上好 zao3 shang4 hao3 - buenoas dias hasta 8:59
-shang4 wu3 hao3 - buenos dias de 9:00 a 11:59
-xia4 wu3 hao3 - buenas tardes hasta 5:59
-wan3 shang4 hao3 - buenas noches
+上午 ; shang4 wu3 hao3 - buenos dias de 9:00 a 11:59
+中午 ; zhong3 wu3 - 12 hasta 1 
+xia4 wu3 hao3 - buenas tardes  de 1 hasta 5:59
+wan3 shang4 hao3 - buenas noches - de 6:00 en adelante
 wan3 an1 - buenas noches de despedida
 
 明天见 - ming2 tian1 jian4 - nos vemos manana
@@ -569,7 +570,7 @@ hou zi - mono
 chuan - vestir
 xin yi - ropa nueva
 du zi - estomago
-e - hambiento
+e - hambriento
 qu - ir
 pa shan - escalar la montana
 pa - arrastrar
@@ -670,3 +671,122 @@ ri 4 ben 3 日本 ; japon
 # tarea
 1. agregar vocabulario de cada imagen
 2. posibles preguntas con cada uno de ellos (repetir en voz)
+
+
+## chat
+
+怎么样; zen3 me5 yang4; qué tal
+可以; ke3yi3 ; puede
+觉得 ；jue2 de ; sentir
+出席 ; asistir ; chu1xi2
+
+你也一样 ; Nǐ yě yīyàng ; tu tambien
+
+# Clase
+
+> Vocab 
+学生 ; xue2sheng1 ; estudiante ;
+姐姐 ; mei3 mei5 ; hermana menor
+妹妹 ; jie3 gie5 ;  hermana mayor
+爷爷 ; ye2ye5 ; abuelo paterno
+叫 ; jiao4 ; llamarse
+你是哪国人？; ni3 shi4 na3 guo2 ren2 ; usted de donde es
+法国人; fa guo ren ; francia (accent)
+墨西哥人 ; mo4xi1ge1ren2 ; mexicano
+
+名字 ; ming2zi ; el nombre
+
+
+你叫什么名字?
+nijiaoshenmemingzi?
+你叫什么?
+ni jiao shen me?
+
+耐心 ; nai4xin1 ; paciencia
+
+你几岁？ni3 ji3 sui4?
+我——岁。wo3 __ sui4
+
+好了; hao3 le5 ;  listo
+为什么？ wei4shen2me5? ; porque?
+
+惊喜； jing1xi3 ; sorpresa
+
+lai2 ; 来 ; venir
+qu4 ; 去 ; ir
+
+_ 来我家，我很惊喜
+vino a mi casa, yo mucha sorpresa
+
+> siguiente tema
+
+时间 ; shi2 jian1 ; tiempo
+
+
+你有时间吗？ni you shi jian me?
+
+ni you mei you shi jian
+你有没有时间
+tiene o no tiene tiempo
+
+(screenshot):
+点 ; dian3 ; hora/punto
+分 ; fen1 ;  minutos
+刻 ; ke4 ;  1/4 de horas
+差 ; cha4 ; falta
+钟 ; zhong1 ; reloj
+
+a la 1: 一点
+a la 2: 两点
+
+
+10 mins: 十分（钟）
+30 mins: 三十分（钟）
+el zhong es opcional 钟
+
+1/4 horas 一刻钟
+1/2 horas: 30 minutos
+1/2 horas: bàn / media / 半
+3/4 horas 三刻钟
+
+差 ; cha4 ; falta
+
+faltan 5 mins para las 5
+差五分（钟）五点
+
+falta 3 cuartos para las 9
+
+las 9 y 15
+
+## clase
+
+漂亮 ; piào liàng ; bonita
+想 ; xiǎng ; pensar
+
+
+睡觉 ; dormir ; shuì jiào
+起床 ; despertar ; qǐ chuáng
+刷牙 ; cepillarse los dientes ; shuā yá
+上班 ; ir a trabajar ; shàng bān
+洗澡 ; bañarse ; xǐ zǎo
+在上课 ; estar en clases ; zài shàng kè
+去上课 ; ir a clases ; qù shàng kè
+下课 ; salir de clases o recreo ; xià kè
+下班 ; salir del trabajo ; xià bān
+回家 ; regresar a casa ; huí jiā
+吃饭 ; comer ; chī fàn
+
+
+> orden de oracion
+suj + tiempo + actividad
+
+> repeticion de materia :p
+
+早上好 zao3 shang4 hao3 - buenoas dias hasta 8:59
+上午 ; shang4 wu3 hao3 - buenos dias de 9:00 a 11:59
+中午 ; zhong3 wu3 - 12 hasta 1 
+xia4 wu3 hao3 - buenas tardes  de 1 hasta 5:59
+wan3 shang4 hao3 - buenas noches - de 6:00 en adelante
+
+### tarea
+la fecha todos los dias y dos acciones durante el dia
