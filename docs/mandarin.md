@@ -184,7 +184,6 @@ hai bu cuo - aun no esta mal
 xia4 wu3 hao3 - buenas tardes  de 1 hasta 5:59
 wan3 shang4 hao3 - buenas noches - de 6:00 en adelante
 wan3 an1 - buenas noches de despedida
-
 明天见 - ming2 tian1 jian4 - nos vemos manana
 下星期见 - xiang4xing1qi2jian4 - nos vemos la proxima semana
 下 - proximo
@@ -735,6 +734,7 @@ tiene o no tiene tiempo
 刻 ; ke4 ;  1/4 de horas
 差 ; cha4 ; falta
 钟 ; zhong1 ; reloj
+整 ; zheng3 ; en punto 
 
 a la 1: 一点
 a la 2: 两点
@@ -790,3 +790,41 @@ wan3 shang4 hao3 - buenas noches - de 6:00 en adelante
 
 ### tarea
 la fecha todos los dias y dos acciones durante el dia
+
+# Clase
+
+现在 ahora
+现在几点 ？ que hora es ahora
+
+> no es 'san' es 'shang4 ban'
+你上午十一点三刻 做什么？
+Nǐ shàngwǔ shíyī diǎn sān kè zuò shénme?
+What are you doing at 11:30 in the morning?
+
+整 ; zheng3 ; en punto 
+
+---
+
+> que hora es?
+ji dian le?
+xian zai ji dian?
+xian zai ji dian le?
+
+mdeio dia, buenos dias, cena
+wu, zao, wan
+
+xia4 wu 3 ; 下午 ; tarde
+wan shan ; en las horas de la noche
+
+凌晨 ling 2 Cheng 2
+
+> screen shot actividades
+
+tarea los oraciones de completar
+las horas escritas
+lectura sin pinyin x2
+completar dialogo de relojes
+
+哭 ku1 llorar
+可以吗？puedes?
+
