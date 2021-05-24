@@ -216,3 +216,9 @@ tā 它 ; pronombre cosa ; 它 ;
 suīrán ; aunque/a pesar de ; 虽然 ;
 xiǎng ; extrañar ; 想 ; verbo
 méiguānxi ; no importa ; 没关系 ; frase
+
+zǎo ; temprano ; 早 ; tiempo
+wǔ ; medio dia ; 午; tiempo
+wǎn ; noche ; 完; tiempo
+xià wǔ ; tarde;  下午 ; tiempo
+língchén ; madrugada ; 凌晨 ; tiempo

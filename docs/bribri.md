@@ -232,7 +232,7 @@ ta = tengo
 
 ## les falta acentos
 yami = familia
-yamip = familiares
+yamipa = familiares
 
 Iriria = madre tierra
 
@@ -597,3 +597,54 @@ tu que vives en el cielo
 ayuda a nuestra familia
 ayudanos a todos
 asi como usted quiera
+
+## Clase
+
+
+tsö: estar
+dör: es/soy
+tchër: estar (de un lugar/ubicacion)
+yëar: estar (de un lugar/ubicacion)
+
+Pronombre/posesivo
+
+a̲: en la
+ta̲: con
+sa̲: donde
+we a̲: dentro de
+
+#### Ejemplos :)
+
+ye' tchër ye' ü a̲
+yo estoy en mi casa
+
+ye' tchër ye' ami̲ ü a̲
+yo estoy en la casa de mi mamá
+
+ye' tchër ye' ami̲ ü a̲ ye el ta̲
+yo estoy en casa de mi mama con mi hermano
+
+ye mikë upakök Pablo ta̲
+yo ire a pasear con Pablo
+
+We̲ be' tsö?
+We̲ be' tchër?
+We̲ be' yëar?
+
+Sa yëar supermercado we a̲
+yo estoy dentro del supermercado
+
+> para contar personas
+eköl: uno/solo
+böl: dos/plural
+maña̲l: tres
+ë: solo
+be' ë: solo usted
+
+ejercicio de clase, 3 oraciones:
+
+ye' mikë ye ami u 
+ye' yawök ye kane ye e
+ye mikë upakok playa ä
+
+

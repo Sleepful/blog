@@ -690,8 +690,9 @@ ri 4 ben 3 日本 ; japon
 爷爷 ; ye2ye5 ; abuelo paterno
 叫 ; jiao4 ; llamarse
 你是哪国人？; ni3 shi4 na3 guo2 ren2 ; usted de donde es
-法国人; fa guo ren ; francia (accent)
+法国人; fa3 guo ren2 ; francia (accent)
 墨西哥人 ; mo4xi1ge1ren2 ; mexicano
+xi1bānyárén ; español persona
 
 名字 ; ming2zi ; el nombre
 
@@ -810,8 +811,9 @@ ji dian le?
 xian zai ji dian?
 xian zai ji dian le?
 
-mdeio dia, buenos dias, cena
-wu, zao, wan
+zǎo ; temprano ; 早 
+wǔ ; medio dia ; 午
+wǎn ; noche ; 完
 
 xia4 wu 3 ; 下午 ; tarde
 wan shan ; en las horas de la noche
@@ -820,11 +822,44 @@ wan shan ; en las horas de la noche
 
 > screen shot actividades
 
-tarea los oraciones de completar
-las horas escritas
-lectura sin pinyin x2
-completar dialogo de relojes
+### Tarea
+> tarea los oraciones de completar
+> las horas escritas
+
+> lectura sin pinyin x2
+我们几点见？
+今天下午三点一刻
+我们今天晚上几见？
+八点十分见
+
+我们几点见？
+早上七点四十
+我们明天几点见？
+
+
+> completar dialogo de relojes
+
+### vocab 
 
 哭 ku1 llorar
 可以吗？puedes?
+
+## Chat
+
+最近 zuìjìn ; recientemente
+
+# Clase
+这 ; zhe ; este/esta
+那 ; nà ; aquel aquella
+
+汉语 ; chino ; hàn yǔ
+中文 ; chino ; zhōng wén
+
+> tarea en clase
+> estudiar tiempos, acciones
+> verbos
+> paises
+
+> mapa de china
+
 
