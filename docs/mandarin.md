@@ -1,4 +1,4 @@
-# Pin Yin
+e Pin Yin
 
 sistema para extrangeros, para los ninhos desde pequenos tambien
 
@@ -570,6 +570,7 @@ chuan - vestir
 xin yi - ropa nueva
 du zi - estomago
 e - hambriento
+肚子饿 du zi e ; hambre (con estomago)
 qu - ir
 pa shan - escalar la montana
 pa - arrastrar
@@ -672,7 +673,7 @@ ri 4 ben 3 日本 ; japon
 2. posibles preguntas con cada uno de ellos (repetir en voz)
 
 
-## chat
+## chat vocab verbo
 
 怎么样; zen3 me5 yang4; qué tal
 可以; ke3yi3 ; puede
@@ -813,12 +814,12 @@ xian zai ji dian le?
 
 zǎo ; temprano ; 早 
 wǔ ; medio dia ; 午
-wǎn ; noche ; 完
+wǎn ; noche ; 晚
 
-xia4 wu 3 ; 下午 ; tarde
-wan shan ; en las horas de la noche
+xià wǔ ; 下午 ; tarde
+wan shang ; en las horas de la noche
 
-凌晨 ling 2 Cheng 2
+凌晨 ; líng chén ; madrugada
 
 > screen shot actividades
 
@@ -863,3 +864,83 @@ wan shan ; en las horas de la noche
 > mapa de china
 
 
+
+# Qistions
+chuan4 - vestir  ?dui?
+zǎi jiàn - nos vemos ?dui?
+diferencia entre chi y chifan
+le vs ma?
+
+## Chat
+
+你这几天好吗
+Nǐ zhè jǐ tiān hǎo ma
+
+我有一个问题
+Wǒ yǒu yīgè wèntí
+tengo una pregunta
+
+你今天做了什么？
+Nǐ jīntiān zuòle shénme?
+¿Qué hiciste hoy?
+
+xuéxí - estudiar aprender: 
+
+你今天几点学汉字？
+Nǐ jīntiān jǐ diǎn xué hànzì?
+¿A qué hora aprendes los caracteres chinos hoy?
+
+走路 - caminar -  zou 3 lu 4
+散步 - caminata san4 bu4 🚶
+
+dormir/levantar/ir a trabajo/etc
+
+夕阳 xi4 yang2  🌇 atardecer
+
+夕阳无限好 ， 只是近黄昏
+Xīyáng wúxiàn hǎo, zhǐshì jìn huánghūn 
+las cosas bellaz tambien tienen momento de acabarse
+
+做 运动
+Zuò yùndòng
+hacer ejercicio
+
+shang ge xingqi semana pasada
+
+hermana mayor/menor
+abuelo paterno
+
+you3 有 haber tener
+ge 个
+也 ye tambien
+工人 gong1 ren2
+hu4 shi4 护士 enfermeras
+
+> palabras pdf
+
+一生 yi1sheng1 doctor
+
+写 escribir xie3
+
+学生 xue4 sheng1 estudiante
+
+肚子饿 ; du4 zi e4 ; (estomago) hambre 
+
+lu4 shi1 ; abogado ; 律师
+
+工程师 ; gong1 cheng2 shi1 ; ingeniero
+
+xing4 ; 姓  ; apellido
+
+jiao - llamarse
+ne - y tu
+mei - negacion
+
+
+quizlet 22
+
+洗手间
+xi3 shou 3 jian 1
+
+厕所
+ce4 suo 3

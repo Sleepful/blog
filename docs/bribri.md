@@ -1,4 +1,4 @@
-# Briri!
+# Bribri!
 
 á  tilde
 à  tilde
@@ -646,5 +646,46 @@ ejercicio de clase, 3 oraciones:
 ye' mikë ye ami u 
 ye' yawök ye kane ye e
 ye mikë upakok playa ä
+
+# Clase (la perdi, kenneth no me ha pasado la clase)
+
+# Clase
+
+Al haber una muerte llega el "Okum" (no se si bien escrito, posiblemente no)
+el "Okum" es el forense
+Al morir la persona, la familia queda impura
+Que es impuro? se dice "ña"
+"ña" significa "sucio" (traduccion literal)
+pero vulgarmente "eso es mierda" se le dice "ña"
+
+para indicar el tipo de suciedad se tiene que usar el pronombre
+"chichi ña" --> "caca de perro"
+
+al quedar la familiar impura no pueden:
+- tocar comida
+- tocar fuego
+- tocar nada
+
+por 7 dias quedan impuros (la familia del muerto)
+
+ahi trabajan varios
+
+"shekorpa" los cantores
+el "usure" ve hacia donde nace el sol
+
+los cantores  escogen 3 cantos y los repiten,
+dependiendo de la persona que se murio y su clan
+
+"el baile del sorbon" los animales bailaron el sorbon con sibo con el maiz y de ahi
+nacieron los indigenas
+
+hacen el mismo baile para despedir a los muertos
+por que ese mismo baile hacen en el inframundo
+
+"nos enterraron, lo que no sabian es que somo semillas" - frase indigena
+
+"odloer" mal de estomago (que mata, si tocan comida)
+"ñawi"
+
 
 
