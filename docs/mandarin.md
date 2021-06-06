@@ -1,4 +1,4 @@
-e Pin Yin
+Pin Yin
 
 sistema para extrangeros, para los ninhos desde pequenos tambien
 
@@ -944,3 +944,49 @@ xi3 shou 3 jian 1
 
 厕所
 ce4 suo 3
+
+liàn xí ; practica ; 练习 ;
+
+## clase
+
+你跟我说一说，你今天做了什么？
+Nǐ gēn wǒ shuō yī shuō, nǐ jīntiān zuòle shénme?
+
+饭馆儿
+Fànguǎn er ; restaurante
+
+一点儿 ; Yīdiǎn er ; yi 4 dianr3
+
+停 ting 2 ; pare para stop detenerse
+
+他是谁？
+Tā shì shéi?
+ella es quien?
+
+他是谁？她是谁？这是谁？那是谁？你是谁？
+Tā shì shéi? Tā shì shéi? Zhè shì shéi? Nà shì shéi? Nǐ shì shéi?
+Who is he? who is she? Who is this? Who is that? who are you?
+
+
+他在做什么？ 你在做什么？
+Tā zài zuò shénme? Nǐ zài zuò shénme?
+What is he doing? what are you doing?
+
+"zheng = gerundio"
+我正在吃午饭
+Zhèngzài chī wǔfàn
+Having lunch
+
+在 ; zai4 ; estar
+做 ; zuo4 ; hacer
+
+杀 sha1 ; matar
+蟑螂 Zhang 1 Lang 2 ; cucaracha
+
+
+前进 qian 2 Jin4 ; avanzar
+一 步 yi2 bu4 (paso )
+
+后 hou 4 atrás
+ 
+Shuìjiào 睡觉 go to bed
