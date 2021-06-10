@@ -66,6 +66,8 @@ Despedida
 
 # Otra clase:
 
+# Familia
+
 Amî     mamá
 Yë      papá
 Èl      hermanoa
@@ -79,6 +81,8 @@ Wíkela  abuela (materna
 Taye    chica 
 Alàkol  mujer
 Wem     hombre
+
+# Numeros
 
 êt      1
 böt     2
@@ -291,10 +295,11 @@ ye chichi dor dalolo ena sururu
 > usted es buena gente
 be dor pe' buae
 
-ta : con
-sa : donde
-a : a/para
-we a : dentro de
+ta̲ : con
+sa̲ : donde
+> a : a/para ... Corregido:
+a̲ : en
+we a̲ : dentro de
 mike : ir/voy
 
 > con mi mama
@@ -395,7 +400,48 @@ chkök ; comer
 
 # Clase con notas en el cel
 
+> faltan datos de dos fotos de verbos
 ....verbos pasado/presente/futuro/gerundio
+
+Ye tsena (yo siento)
+No lleva 'tso' en presente
+Los otros que tiene el mismo presente y g aserundio sí lleva 'tso'
+Ratser tampoco lleva 'tso'
+
+es       verbo    pasado   futuro    presente  gerundio
+-------------------------------------------------------
+trabajo  Kane̲     kane̲a̲na̲  kane̲örke̲  kane̲ki̲    kane̲blök 
+correr   Tu̲nuk    tune̲     turke̲     tu̲nu̲k     tu̲nu̲k
+comer    Chkök    chké     chköke̲    chkök     chkök
+buscar   Yölök    yulé     yölöke̲    yölök     yolök
+llamar   Ichákök  ichaké   ichakéke̲  ichakök   ichakök
+pasear   Upakök   upaka̲na̲  upakéke̲   upakök    upakök
+sentir   Tsena̲    tsene̲    tserke̲    tsena̲     tsena̲
+ir       Mike̲     ráre     mike̲      mike̲      mike
+venir    Rátse̲r   ré       rátske    rátse̲r    ratse̲r
+cantar   Tsök     tsé      tsöke     tsök      tsoke̲
+
+(Gerundio es como 'ey ahí voy')
+
+tsö   - ser o estar
+dör   - es, soy
+tchër - estas
+tchöke̲ - pasar, pasando
+tchá - pasó
+tchátchë - ha pasado, has pasado
+
+ichakök - llamar, preguntar
+ichakëke̲ - llamaré, preguntarte
+
+kue̲ - encontrar
+ku̲ - encontró, halar
+
+Chki (?) - ayer
+Bre (?) - mañana
+
+TAREA:
+5 oraciones utilizando los verbos
+
 
 # Clase
 
@@ -687,5 +733,137 @@ por que ese mismo baile hacen en el inframundo
 "odloer" mal de estomago (que mata, si tocan comida)
 "ñawi"
 
+## Tarea
+
+- Is' be' shke̲na̲?
+Ye' shke̲na̲ buàe
+
+- Ima̲ be' kie?
+Ye' kie Jose
+
+- Ko̲s be' ki̲ dawás tsö?
+Ye' ki̲ dawás tsö böyok te̲röl
+
+Complete el texto con verbos (pasado, presente, futuro)
+
+Ye' *ráre* ye' amí sau̲k (verbo ir)
+> sau̲k: verbo ver
+ye' tsö *tsöke̲* (verbo cantar)
+Mik be' *ratse̲r* (verbo venir)
+Mishka *upakök* ye' ta̲ (verbo pasear)
+
+Complete la oración con las terminaciones sa̲, ta̲, a̲, we a̲
+
+Ye' tsö supermercado *we a̲*
+Ye' mike Kaneblök Alexandra *ta̲*
+> Mishka se' amí *a̲* MAL
+Mishka se' amí *sa̲*
+> Mishka: vamos
+ie' tsö ie' ú *we a̲*
+> ú: casa
+> iePa mike cocina *ta̲* MAL
+iePa mike cocina *a̲/we a̲*
+ye mike tu̲nu̲k be *ta̲*
+be mike chkök maria *ta̲*
+
+## Clase
+
+is' a' shke̲na̲ ulítane̲
+
+iñe̲ se' kopaköke̲ iyi ko̲s sa' woblána. Bribri a̲
+mika̲ pandemia covid-19 reka̲, sa' tsö bikeitsök
+tö we̲s sa' kane̲blömi bribri jkachök pe' ulítane̲ a̲.
+Junio 2020 sa' e̲me̲ka̲ tabechka ki kieke zoom,
+é-uköki sa e̲-mane̲we̲ tabechka kieke teams.
+ét-ét sa' ko̲pakö to we̲s bribriwak se̲rke̲ e̲na̲
+we̲s iepa ka̲wö tchöke kekráe.
+Iñe̲ ye'r ichéke̲ buáe ye' tsena̲ ichök to ye kiëmi̲
+bribriwak, se' dör yámìpa ulítane̲, sa' dör ét.
+
+
+is' a' shke̲na̲ ulítane̲
+
+iñe̲ se' kopaköke̲ 
+> hoy vamos a conversar
+iyi ko̲s sa' woblána Bribri a̲
+> sobre todas las cosas que hemos aprendido en bribri
+mika̲ pandemia covid-19 reka̲,
+> cuando vino la pandemia covid-19 
+sa' tsö bikeitsök
+> nosotros estamos pensando
+> bikeitsök : verbo pensar
+tö we̲s sa' kane̲blömi 
+> tö auxiliar se convierte en "sobre"
+> sobre como nosotros trabajariamos
+bribri jkachök pe' ulítane̲ a̲.
+> enseñar bribri a toda la gente.
+Junio 2020 sa' e̲me̲ka̲ 
+> Junio 2020 nosotros pusimos 
+> me̲ka̲ : verbo poner
+> e̲me̲ka̲ :  me̲ka̲ conjugado con pronombre (sa'/be'/etc)
+tabechka ki kieke zoom,
+> en la plataforma que se llama zoom
+é-uköki sa e̲-mane̲we̲ tabechka kieke teams.
+> despues nosotros nos cambiamos a la plataforma que se llama teams.
+> e̲-mane̲we̲: cambiar
+> é-uköki: despues
+ét-ét sa' ko̲pakö to we̲s bribriwak se̲rke̲ 
+> ét: 1
+> ét-ét: de vez en cuando/algunas veces/aveces
+> de vez en cuando nosotros conversamos sobre como viven los bribris
+> ko̲pakö: conversar en presente
+e̲na̲ we̲s iepa ka̲wö tchöke kekráe.
+> y como ellos pasan el tiempo siempre
+Iñe̲ ye'r ichéke̲ buáe ye' tsena̲ ichök to ye kiëmi̲ bribriwak,
+> ye'r: contraccion de dör (ye dor)
+> hoy yo digo que me siento bien de decir que puedo llamarme bribri,
+se' dör yámìpa ulítane̲, sa' dör ét.
+> todos somos familia, somos uno
+
+## Notas
+### pe'
+pë: sangre
+pe': gente
+peë: golpear
+
+> para referirse a "mi gente"
+correcto: ye yami̲
+incorrec: ye pe'
+
+se̲rke̲: vivir
+sërkë: tormenta
+
+a': ustedes
+ak: piedra
+
+bö':  fuego
+bö':  leña
+böwö: luz
+
+Tskökā: encender
+
+ü̲̲̈̈: casa
+u̲: olla
+
+ök: chanco monte
+o': hacha
+
+sa': nosotros
+se': nuestros
+
+klöu̲k: agarrar verbo
+klu̲k: gritar verbo
+
+blö: chicha (bebida)
+blö: guardar
+blöblö: dulce
+blë: sinonimo de gente (pe')
+blë: guardé/guardó (presente y pasado)
+
+nu̲na̲: podrido
+nu̲na̲: mojado
+
+ko̲s: cuantos - para preguntar edad, hora, días... tiempo
+bik: cuantos - se utiliza para preguntar chanchos/gallinas/animales/objetos/guitarras tiene alguien
 
 
