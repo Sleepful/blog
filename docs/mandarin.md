@@ -580,7 +580,7 @@ koa shi - examen
 tiao wu - bailar
 tiao - saltar
 dou liu - nombre propio de lugar en taiwan (no traduccion)
-guo - verbo, pasar
+guo - verbo, pasar / pasado
 sheng ri - cumple ano
 
 ## Tarea
@@ -686,8 +686,8 @@ ri 4 ben 3 日本 ; japon
 
 > Vocab 
 学生 ; xue2sheng1 ; estudiante ;
-姐姐 ; mei3 mei5 ; hermana menor
-妹妹 ; jie3 gie5 ;  hermana mayor
+妹妹 ; mei3 mei5 ; hermana menor
+姐姐 ; jie3 jie5 ;  hermana mayor
 爷爷 ; ye2ye5 ; abuelo paterno
 叫 ; jiao4 ; llamarse
 你是哪国人？; ni3 shi4 na3 guo2 ren2 ; usted de donde es
@@ -990,3 +990,46 @@ Having lunch
 后 hou 4 atrás
  
 Shuìjiào 睡觉 go to bed
+
+# Cancion de ninos
+
+https://youtu.be/yxaA94HGo9A
+
+# Clase
+
+
+争论;  zheng1 lun4; discusion
+激烈;  ji 1 lie 4; muy fuerte/intenso
+
+ji lie de zheng lun ;
+
+口角 ; kou3 jiao3 ; pelea/discusion
+
+心情 ; xin 1 qing 2 ; emocion 
+
+不够 ; bu2 gou4 ; no alcanzo
+
+
+lv xing ; abogado 
+lv hang ; bufete de abogados
+
+dian 4 nao 3 ; computadora
+gong 1 cheng 2 shi 1 ; ingeniero
+
+姓 ; xing4 ; apellido
+
+ni3 qu4 nar3?  你去那儿
+
+quizlet: https://quizlet.com/_9wdu1u?x=1jqt&i=10v75c
+
+这些; zhè xiē ; estos/estas esos/esas
+
+过 ; guò ; verbo, pasar / en pasado
+verbo + 过 
+indicar que algo sucedio
+obtuvo experiencia en algo
+
+了 ; le ; paso y completado
+
+drive ---- 
+

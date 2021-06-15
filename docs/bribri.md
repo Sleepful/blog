@@ -436,8 +436,8 @@ ichakëke̲ - llamaré, preguntarte
 kue̲ - encontrar
 ku̲ - encontró, halar
 
-Chki (?) - ayer
-Bre (?) - mañana
+Chki - ayer
+Bulé - mañana
 
 TAREA:
 5 oraciones utilizando los verbos
@@ -866,4 +866,72 @@ nu̲na̲: mojado
 ko̲s: cuantos - para preguntar edad, hora, días... tiempo
 bik: cuantos - se utiliza para preguntar chanchos/gallinas/animales/objetos/guitarras tiene alguien
 
+
+# Clase
+
+verbos
+
+verbo    pasado  presente  futuro    gerundio
+-------------------------------------------------------
+yöwök    yöna̲    yöwök     yörke̲     e-yöwök  hacer/formar (depende del ctx)
+shkök    ráre    shköke̲    shköke̲    shkök    andar/caminar 
+pabökök  pabeké  pabökok   paboköke̲  pabökök  tapar (cobijar por ejemplo)
+yölök    yulé    yolök     yölöke̲    yolök    buscar
+
+## e̲-yöwök - gerundio
+e'-yöwök - haciendolo (no se refiere a la accion como tal)
+ï-yöwök - haciendo eso
+i'-yöwök - haciendo esto (señala)
+
+ie - como la palabra "un"
+> como "ie'" pero sin apostrofe
+"yo me hare un abogado"
+
+## ï-ki̲
+ï-ki̲ - ¿porque?
+ki̲ - en (tambien "+" en numberos)
+ï - ¿que?
+
+## shkök
+be' shkö - venga (se le quita la "k" al verbo cuando se usa pronombre singular)
+en pasado es igual al pasado de "mike̲"
+
+## yölök
+be' dör ï-yulé
+> usted buscó eso?
+
+
+## Algunos alimentos
+
+Pejibaye - dikó
+Yuca - alí
+ayote - apí
+platano - klöm
+banano - chamú̲
+naranja - ashli
+limón - ashwö
+limón criollo - ashwö ichöcle
+ichöcle - significa "criollo" o "original"
+maíz - kuö
+frijol - átüwo
+
+## otros verbos
+
+kuátchök - sembrar
+tsu̲k - traer
+tök - cortar
+jtök - hablar
+botsök - apear/arrancar/ *cuarentena(cuando se indica a la gente)
+mu̲k - regalar/deme/dele
+mu̲ - regalar/deme/dele
+
+## Tarea
+
+seleccionar de los alimentos
+con que palabra se puede relacionar
+> cortar o apear
+
+Mishka <verbo> <sustantivo> <verbo>
+Mishka <verbo> <sustantivo> tök
+...
 
