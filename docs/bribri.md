@@ -15,7 +15,7 @@ ye'      yo
 be'      usted
 ie'      el/ella
 sa'      nosotros
-iePa'    ellos-ellas
+iePa     ellos-ellas
 ulítane  todos en engeral 
 kékepa   cacique/persona mayor/jefe/profesor
 
@@ -259,7 +259,7 @@ wöbla : ojos
 jkö : boca
 kököña : oidos
 tsi̲ : espalda
-bitsi̲ : pecho
+bitsi̲' : pecho
 ulá : mano
 klö : pie
 shu̲ : cintura
@@ -336,7 +336,7 @@ be tso pe buae ta
 > quedo grabada
 
 kukúne̲ ; pronto hace poco
-enu̲k ; descansar
+e̲nu̲k ; descansar
 yëna̲ ; de verdad / es cierto
 kula' ; silla
 ujkö ; puerta
@@ -501,8 +501,8 @@ sulúe - mal
 - Ichëke̲ ujkö
 
 ka̲se páio - abrigo
-ka̲se - camisa
-páio - frio
+ka̲se - frio
+páio - camisa
 
 ### tarea
 3 oraciones con la palabra 'mik' y con la palabra 'we'
@@ -845,7 +845,7 @@ Tskökā: encender
 ü̲̲̈̈: casa
 u̲: olla
 
-ök: chanco monte
+ök: chanco monte / jabalí
 o': hacha
 
 sa': nosotros
@@ -935,3 +935,78 @@ Mishka <verbo> <sustantivo> <verbo>
 Mishka <verbo> <sustantivo> tök
 ...
 
+# Clase
+sïna̲ - mojado
+nu̲na - seco
+
+yëna̲ - verdad
+ki̲të - mentira
+
+buáe - bien (sinonimo de genuino)
+sulúe - mal
+
+bitsi̲e - largo
+berie - grande
+tsír - corto/pequeño
+
+shkök - caminar/andar
+tchëre - sentarse
+
+kula' - silla
+
+Wēshkē - adentro
+Urkī - afuera
+
+kaneblök - trabajo
+e̲nu̲k - descanso 
+
+dërere - duro/caro/dificil
+töttö - suave/barato/facil
+
+ña̲la̲ - camino
+
+tawe̲ - vale(de valer $)
+
+#### Animalitos
+
+nimá - pescado
+ló - sopilote
+siná̲ - mono carablanca 
+tsuwí - armadillo/kusuko
+urrek - tucan
+tchabé - serpiente
+kuákua - mariposa
+pú̲ - aguila
+namú - tigre
+daköl - pez sardina
+
+dayë - mar
+
+### verbos 
+
+klíu̲k - pescar
+klöu̲k - agarrar
+ktök - matar
+
+> ye' mike kuákua klöu̲k
+> voy a  atrapar mariposas
+
+*Cuidado, suenan parecidas:*
+
+tök cortar
+ktök matar
+jtök hablar
+
+### notas
+dör no se puede contraer con el
+pronomber 'iePa', pero si con
+los otros pronombres, como:
+
+ye' dör
+ye'r
+
+### Tarea
+hacer oraciones con los animales
+igual que la pasada
+"yo voy a ir a hacer esto"
+"yo voy a ir a hacer lo otro"
