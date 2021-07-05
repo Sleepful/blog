@@ -1033,3 +1033,96 @@ obtuvo experiencia en algo
 
 drive ---- 
 
+
+# Clase
+
+你今天过得怎么样？
+Nǐ jīntiānguò dé zěnme yàng?
+
+wo hen hao
+
+还可以
+Hái kěyǐ
+masomenos
+
+不错
+Bùcuò
+No mal
+
+no esta mal
+不用谢
+
+
+> sobre hanzi, que el profe saca de google:
+Primero vamos a comenzar 指事zhǐ shì ,  los ideogramas simples: 
+expresan una idea abstracta a través de una forma icónica (con íconos) 
+
+El segundo es 形声 xíng shēng, traducido a  "forma y sonido” 
+
+El tercer método es 假借 jiǎjiè, son prestadas para escribir homófono que son palabras que suenan igual pero con distintos significados.
+
+Otro método son los Ideogramas combinados 会意 huì yì y son dos o más caracteres ya sean pictográficos o ideográficos que al combinarse crean un nuevo significado.
+
+轉注 zhuǎn zhù, que es una clasificación de valor puramente histórico. Puede referirse a caracteres que tienen significados similares y a menudo la misma raíz etimológica.
+
+Y el último es el método de los pictogramas 象形 xiàng xíng, "imitación de formas" que por sus raíces picto- del verbo (pintar) y grama = escrito o trazado son los caracteres del mandarín derivados de una pintura gráfica, es decir sus trazos se pueden relacionar con el significado.
+
+
+# Clase
+
+马马虎虎  ma 3 ma 3 hu 1 hu 1 - masomenos
+
+好久不见 hao jiu bu jian - no nos vemos hace mucho tiempo
+久 - jiu - mucho tiempo
+
+看见 - lo vi
+
+对不起 dui4 bu4 qi3 - lo siento / perdon
+
+再见 - zai4jian4 - nos vemos luego
+再 - otra vez
+
+起 - qi3
+
+再一次 - zai yi ci4 - otra vez
+谢 - apellido ; 谢谢 - gracias
+先生 - xian1sheng1 - esposo o sen'or
+太太 - tai4tai5 - sen'ora o esposa
+
+mascota - chong3wu1 - 宠物
+clasificador animales/cosas redondas - zhi1 - 只
+perro gou3 狗
+clasificador para caballos - pi3 - 匹
+caballo - 马 - ma3
+clasificador pez/serpiente/dragon/cosas largas - tiáo - 条
+pez dorado (goldfish) jīnyú  金鱼
+gato - māo - 猫
+pajaro - niǎo - 鸟
+hen 很
+grande 大 dà
+peque xiǎo 小
+bravo xiōng 凶
+lindo kěài 可爱
+verdaderamente/realmente zhēn 真
+si/yes/agree - shì a - 是啊
+tā 它
+它们
+也
+你家有什么宠物?
+nǐ jiā yǒu shēn me chong wu
+
+想 - xiang - pensar/querer/extraniar
+你想有宠物吗？
+
+我家有两匹马
+
+我的狗很小，很可爱
+
+animales dòngwù 动物
+mascotas chǒngwù 宠物
+
+https://quizlet.com/_9z7430?x=1jqt&i=10v75c
+
+
+
+
