@@ -189,6 +189,8 @@ wan3 an1 - buenas noches de despedida
 下 - proximo
 星期 - semana
 
+再见 - zai4jian4 - nos vemos luego
+
 sujeto + 呢 ne - devolver pregunta
 也 - ye - tambien
 
@@ -1123,6 +1125,77 @@ mascotas chǒngwù 宠物
 
 https://quizlet.com/_9z7430?x=1jqt&i=10v75c
 
+# Clase
+    
+contador familia 口
 
+有谁？
+
+还有/和
+
+shen me yang y respuestas (3) 
+
+dos maneras de pregunattr edad
+
+黑豆饭 - gallo pinto 
+Hei1 dou4 fan4
+
+青菜 qing1cai4 verdura
+
+罗望子 luo2wang4zi3 tamarindo
+
+酸角 suan1 jiao3
+
+耳机 erji - audifonos
+
+
+horoscopo chino:
+生肖 - sheng1 xiao4 
+属 - shu 3
+
+我的生肖是狗
+
+可是 ke3 shi4 pero
+
+ 还是 hai2 shi4 - o
+
+ 有时候 you3 shi2 hou4 - aveces/algun momento
+
+骑 ｑｉ２ montar (caballo)
+
+# Clase
+
+写 - xiě - escribir
+
+过得 - guò dé - como vas? - (过 pasado 得 obtener)
+
+试着 - intentando/intentar - shi4 zhe5
+
+周 - zhou - como 星期 (sinonimo)
+周末 - zhou1 mo
+    
+开始 - kāi shǐ - comenzar
+
+会 - hui 4 - poder (de habilidad adquirida)
+可以 ke yi es mas como de pedir permiso
+
+加拿大 jia1 na2 da4 - canada
+德国 - alemania
+新西兰 -  nueva zelanda
+
+哪 - nǎ - donde
+对不起 - duì bu qǐ - sorry
+没关系 - méi guān xi - no se preocupe
+请问 - qǐng wèn - disculpe/compermiso
+
+咦 - yí - sorprendido/expression 
+一点儿 - yī diǎnr - un poquito
+哪里 - nǎ lǐ - donde
+
+https://www.blooket.com/play?id=761826
+https://quizlet.com/_a1i2j0?x=1jqt&i=10v75c
+
+太阳 - tài yang - sol
+公园 - parque
 
 
