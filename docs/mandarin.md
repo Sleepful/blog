@@ -1198,4 +1198,35 @@ https://quizlet.com/_a1i2j0?x=1jqt&i=10v75c
 太阳 - tài yang - sol
 公园 - parque
 
+## llamada
+下雨 - xià yǔ - lluvia
+下雨天 睡觉
 
+不用 bú yòng - no es necesario
+上班 shàng bān - trabajar
+
+先.... 然后
+先xiān …… primero
+然后 rán hòu ...
+
+多长时间
+duō cháng shí jiān
+
+一个小时
+hora xiǎoshí
+
+我睡了四个小时的午觉
+
+高兴认识 - gāo​xìng​rèn​shi - contento de conocerte
+
+xìng huì幸会 - mucho gusto (de conocerte)
+
+今年十六岁
+是学生
+
+小美会说英语
+
+她英语和汉语 说得很好
+得 - de - habilidad adquerida
+
+小美的宠物是
