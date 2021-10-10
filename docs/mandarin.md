@@ -272,6 +272,7 @@ sujeto + verbo + objeto
 # S + V + O + PI
 
 shen2me 什么 como? o que?
+wei4shen2me5? ; 为什么？ ; porque?
 
 ni yao shen me
 ni yao chi shen me
@@ -711,7 +712,8 @@ ni jiao shen me?
 我——岁。wo3 __ sui4
 
 好了; hao3 le5 ;  listo
-为什么？ wei4shen2me5? ; porque?
+为什么？ ; wei4shen2me5? ; porque?
+什么 ; shen2me ; como? o que?
 
 惊喜； jing1xi3 ; sorpresa
 
@@ -1230,3 +1232,122 @@ xìng huì幸会 - mucho gusto (de conocerte)
 得 - de - habilidad adquerida
 
 小美的宠物是
+
+# clase
+
+柠檬汁
+草莓汁
+芒果汁
+桑葚汁
+
+中国菜
+
+面条 fideo
+意大利面 Yì dà lì miàn pasta italiana
+比萨饼 bǐ sà bǐng pizza
+
+法国面包 fa guo mian bao pan frances
+牛角包 niu jiao bao croissant
+
+春卷 chun juan: rollo de primavera (taco chino)
+墨西哥卷 moxigejuan : taco mexicano
+辣椒 la jiao, chile picante
+
+玉米粉 yu mi fen: masa de mais
+粽子 zong zi: tamal chino
+玉米粉粽子 tamal de maiz
+
+传统 chuan2 tong3: tradicional
+
+哥斯达黎加 传统粽子 tamal tradicion cr
+
+寿司 sousi, sushi
+生鱼片 sheng yu pian, sashimi
+
+热狗 regou perro caliente
+han4 bao3 bao1 汉堡包 hamburguesa
+薯条 shu3 tiao2 papas fritas
+薯片 shu3 pian4 papas tostadas
+
+鱼排 yu2 pai2 filete de pescado
+炸鱼 zha2 yu2 pescado frito
+牛排 niu2 pai2 lomito de carne
+
+汽水 qi4 shui3 gaseosa
+ke3 le4 可乐 coca cola
+
+米酒 mi3 jiu3 licor de arroz
+mi3 = arroz
+
+
+葡萄 pu2 tao2 uvas
+葡萄酒 pu2 tao2 jiu3 vino
+红酒 hong2 jiu3 licor rojo
+龙舌兰酒 long2she2lan2jiu3 tequila
+
+茶 cha2 te de tomar
+茉莉花 mo4li4hua1 jasmin
+红茶 hong2 cha2 te rojo(negro aqui)
+
+兰姆酒 lan2mu3jiu3 ron
+
+威士忌 wei shi4 ji4 whisky
+
+伏特加 fu2te4jia1 vodka
+
+https://quizlet.com/cr/520339027/%E5%9B%BD%E5%AE%B6-flash-cards/
+
+Tarea: escribir en frases
+
+# Clase
+然后 ran2 huo4 luego
+
+### Antes de leccion 9
+
+animalitos
+quien soy
+que he hecho hoy
+decir las horas
+decir la fecha de hoy
+nacionalidades
+
+### Leccion 9
+爱好 ai 4 hao 4 hobbie
+
+在你家谁喜欢游泳？
+xxxxxx是谁的？
+
+骑车 qi2 che1 cycling 
+pao3bu2 corriendo
+you2 yong3 swim
+ti1 patear (jugar con pies)
+
+懂我的意思吗 me entiendes?
+dong3 wo de yi si ma
+
+zu2 qiu2 futbol, pata + bola
+
+da3 golpear (jugar con las manos)
+
+lan2 qiu2 - baloncesto
+wang3 qiu2 - tennis
+
+ping1pang1qui2 - ping pong
+
+你的意思是对
+
+bang4qiu2 - baseball 
+
+yun2dong2 - deporte, ejercicio
+
+wei2 - hola, hey
+
+qu4 - ir
+zui4 - most
+zou3 - caminar
+
+ba  - particula indica sugerencia
+
+mang2 - ocupado
+
+
