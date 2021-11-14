@@ -86,7 +86,7 @@ para completar la forma consonante+vocal
 - xin 1 de 5
 
 ```
-ba 4 ba5   baba  爸爸
+ba 4 ba5   papa  爸爸
 pa4        miedo 怕
 ma 1 ma    mama 妈妈
 fei1 ji1   avion  飞机
@@ -216,7 +216,7 @@ tang2 guo3 糖果 dulces/confites
 san1 ming2 zhi4 三明治 sanguich
 han4 bao3 bao1 汉堡包 hamburguesa
 shu1 cai4 蔬菜 vegetales
-bo1 luo2 菠萝 pin'a
+bo1 luo2 菠萝 pin'a/pinha/piña
 pu2 tao2 葡萄 uvas
 xiang1 jiao1 香蕉 banano
 ju2 zi 橘子 mandarina
@@ -1250,7 +1250,7 @@ xìng huì幸会 - mucho gusto (de conocerte)
 牛角包 niu jiao bao croissant
 
 春卷 chun juan: rollo de primavera (taco chino)
-墨西哥卷 moxigejuan : taco mexicano
+    墨西哥卷 moxigejuan : taco mexicano
 辣椒 la jiao, chile picante
 
 玉米粉 yu mi fen: masa de mais
@@ -1350,4 +1350,95 @@ ba  - particula indica sugerencia
 
 mang2 - ocupado
 
+## Clase
 
+> Leccion 9: vocabulario DEPORTES (que no tengo aqui)
+
+请 qing3 por favor
+
+qing ban man guo
+me ayuda por favor
+
+https://www.hanzi5.com/
+
+> Ficha de leccion 10:
+https://quizlet.com/_a9ov40?x=1jqt&i=10v75c
+
+等一下
+deng 3 yi 2 Xia 4
+ahorita / espere un momento
+
+## Clase
+
+朋友 friend
+眉毛 eyebrow
+眼睛 eye
+鼻子 nose
+嘴巴 mouth
+头   head
+耳朵 ear
+脸   face
+头发 hair
+王   king
+美   beautiful
+怡   happy
+上   attend
+年级 grade
+长   long
+短   short
+学校 school
+同班 same class
+
+年轻
+
+还有什么
+色拉
+沙拉 
+本子
+虾米饭
+
+瓶： ping 2 (botella)
+
+zailai?
+你买了什么食物
+
+我没有买
+you = haber
+
+你买了什么食物
+
+觉得
+
+
+
+读书
+
+画画儿
+听音乐
+
+看电影, pelicula
+看电视
+看小说
+钢琴
+杂志，revista, 
+
+跳舞
+唱歌
+
+电脑
+玩游戏
+
+睡觉
+游泳
+游泳
+
+跑步
+泡走
+走路
+上网 navegar internet
+
+### para la proxima clase
+1. 你在做什么？ 
+2. 你的爱好是什么？
+
+https://wordwall.net/resource/10082840/easy-chinese2-%e4%bd%a0%e6%9c%89%e4%bb%80%e4%b9%88%e7%88%b1%e5%a5%bd-%e7%ac%ac%e5%85%ab%e8%af%be
